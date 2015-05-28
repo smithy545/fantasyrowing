@@ -1,0 +1,811 @@
+
+Boston University Men's Crew
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/78_1211367876374.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=78">Boston University Men's Crew</a><a></a>
+
+       
+      
+        <a href="http://www.bu.edu/athletics/crew/men/" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : BU Men 
+	Abbreviation : BUM 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>4</div> 
+	City : <span class="style6">Cambridge</span> 
+	StateRegion : <span class="style6">Massachusetts</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Boston University Women's Crew
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/116_1211367887406.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=116">Boston University Women's Crew</a><a></a>
+
+       
+      
+        <a href="http://www.goterriers.com/" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : BU Women 
+	Abbreviation : BUW 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>3</div> 
+	City : <span class="style6">Boston</span> 
+	StateRegion : <span class="style6">Massachusetts</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Brown University Men's Crew
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/153_1267070876970.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=153">Brown University Men's Crew</a><a></a>
+
+       
+      
+        <a href="http://www.brownbears.com" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Brown Uni - M 
+	Abbreviation : BUMC 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>4</div> 
+	City : <span class="style6">Providence</span> 
+	StateRegion : <span class="style6">Rhode Island</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+College of the Holy Cross
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/1071_1317959541281.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=1071">College of the Holy Cross</a><a></a>
+
+       
+      
+    </span> 
+	ShortName : Holy Cross 
+	Abbreviation : HC 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>3</div> 
+	City : <span class="style6">Shrewsbury</span> 
+	StateRegion : <span class="style6">Massachusetts</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Columbia University
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/1383_1317474607603.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=1383">Columbia University</a><a></a>
+
+       
+      
+        <a href="http://www.gocolumbialions.com/SportSelect.dbml?DB_OEM_ID=9600&amp;KEY=&amp;SPID=4051&amp;SPSID=45289" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Columbia University 
+	Abbreviation : COLMB 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>5</div> 
+	City : <span class="style6">New York</span> 
+	StateRegion : <span class="style6">New York</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Cornell University
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/1332_1211368889695.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=1332">Cornell University</a><a></a>
+
+       
+      
+        <a href="http://cornellbigred.com/" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Cornell University 
+	Abbreviation : CRNL 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>8</div> 
+	City : <span class="style6">Ithaca</span> 
+	StateRegion : <span class="style6">New York</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Dartmouth College Rowing
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/1986_1211368995399.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=1986">Dartmouth College Rowing</a><a></a>
+
+       
+      
+        <a href="http://dartmouthsports.com/SportSelect.dbml?DB_OEM_ID=11600&amp;KEY=&amp;SPID=4712&amp;SPSID=48836" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Dartmouth 
+	Abbreviation : DART 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>5</div> 
+	City : <span class="style6">Hanover</span> 
+	StateRegion : <span class="style6">New Hampshire</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Drexel University
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/1060_1211369092456.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=1060">Drexel University</a><a></a>
+
+       
+      
+        <a href="http://http://http://www.drexeldragons.com/index.asp?path=mcrew&amp;tab=mens" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Drexel 
+	Abbreviation : DREXL 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>5</div> 
+	City : <span class="style6">Philadelphia</span> 
+	StateRegion : <span class="style6">Pennsylvania</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Florida Institute of Technology
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/2862_1415158372072.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=2862">Florida Institute of Technology</a><a></a>
+
+       
+      
+        <a href="http://www.floridatechsports.com/wrowing/" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : FIT 
+	Abbreviation : FIT 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>2</div> 
+	City : <span class="style6">Melbourne</span> 
+	StateRegion : <span class="style6">Florida</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+George Washington University
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/27_1211369412176.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=1121">George Washington University</a><a></a>
+
+       
+      
+        <a href="http://www.gwsports.com" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : George Wash U 
+	Abbreviation : GWU 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>4</div> 
+	City : <span class="style6">Washington</span> 
+	StateRegion : <span class="style6">District of Columbia</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Georgetown University
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/51_1211369388923.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=51">Georgetown University</a><a></a>
+
+       
+      
+        <a href="http://guhoyas.cstv.com/sports/m-crew/gu-m-crew-body.html" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Georgetown 
+	Abbreviation : GU 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>3</div> 
+	City : <span class="style6">Washington</span> 
+	StateRegion : <span class="style6">District of Columbia</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Harvard University Crew
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/172_1211369665746.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=172">Harvard University Crew</a><a></a>
+
+       
+      
+        <a href="http://www.hcs.harvard.edu/~hltcrew/lights.cgi" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Harvard U 
+	Abbreviation : HU 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>7</div> 
+	City : <span class="style6">Boston</span> 
+	StateRegion : <span class="style6">Massachusetts</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Hobart College
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/1985_1331388515092.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=8528">Hobart College</a><a></a>
+
+       
+      
+        <a href="http://http://http://www.hwsathletics.com/index.aspx?path=mcrew" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Hobart College 
+	Abbreviation : HC 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>3</div> 
+	City : <span class="style6">Geneva</span> 
+	StateRegion : <span class="style6">New York</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Marietta College
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/820_1211509688960.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=820">Marietta College</a><a></a>
+
+       
+      
+        <a href="http://http://http://http://pioneers.marietta.edu/index.aspx?path=wcrew" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Marietta College 
+	Abbreviation : MC 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>1</div> 
+	City : <span class="style6">Marietta</span> 
+	StateRegion : <span class="style6">Ohio</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Massachusetts Institute of Technology
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/1929_1221791515982.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=1929">Massachusetts Institute of Technology</a><a></a>
+
+       
+      
+        <a href="http://www.mitcrew.org/" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : MIT 
+	Abbreviation : MIT 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>6</div> 
+	City : <span class="style6">Cambridge</span> 
+	StateRegion : <span class="style6">Massachusetts</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Mercyhurst University
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/93_1274750504446.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=4440">Mercyhurst University</a><a></a>
+
+       
+      
+        <a href="http://www.hurstathletics.com/index.aspx?path=wrowing" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Mercyhurst University 
+	Abbreviation : MU 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>1</div> 
+	City : <span class="style6">Erie</span> 
+	StateRegion : <span class="style6">Pennsylvania</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+MSOE - Milwaukee School of Engineering
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/2558_1211427349299.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=2558">MSOE - Milwaukee School of Engineering</a><a></a>
+
+       
+      
+        <a href="http://go-raiders.com/sports/rowing/index" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : MSOE 
+	Abbreviation : MSOE 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>1</div> 
+	City : <span class="style6">Milwaukee</span> 
+	StateRegion : <span class="style6">Wisconsin</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Naval Academy Lightweight Men's Crew
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/137_1211510830172.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=137">Naval Academy Lightweight Men's Crew</a><a></a>
+
+       
+      
+        <a href="http://navysports.cstv.com/sports/m-crewlt/navy-m-crewlt-body.html" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Navy Ltws 
+	Abbreviation : USNAL 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>3</div> 
+	City : <span class="style6">Annapolis</span> 
+	StateRegion : <span class="style6">Maryland</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Northeastern University
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/2316_1211510923719.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=2316">Northeastern University</a><a></a>
+
+       
+      
+    </span> 
+	ShortName : Northeastern 
+	Abbreviation : NU 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>4</div> 
+	City : <span class="style6">Boston</span> 
+	StateRegion : <span class="style6">Massachusetts</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Oklahoma City University Rowing
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/866_1211511081477.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=866">Oklahoma City University Rowing</a><a></a>
+
+       
+      
+        <a href="http://www.ocusports.com/index.aspx?tab=rowing2" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Oklahoma City 
+	Abbreviation : OCUC 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>2</div> 
+	City : <span class="style6">Oklahoma City</span> 
+	StateRegion : <span class="style6">Oklahoma</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Oregon State University Crew
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/145_1211511643404.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=145">Oregon State University Crew</a><a></a>
+
+       
+      
+        <a href="http://www.osubeavers.com/SportSelect.dbml?DB_OEM_ID=4700&amp;KEY=&amp;SPID=1974&amp;SPSID=25135" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Oregon State 
+	Abbreviation : OSU 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>3</div> 
+	City : <span class="style6">Corvallis</span> 
+	StateRegion : <span class="style6">Oregon</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Princeton University
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/63_1211511763522.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=63">Princeton University</a><a></a>
+
+       
+      
+        <a href="http://www.princeton.edu/~crew/" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Princeton 
+	Abbreviation : PU 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6">10</div> 
+	City : <span class="style6">Princeton</span> 
+	StateRegion : <span class="style6">New Jersey</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Radcliffe Crew
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/111_1211399891330.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=111">Radcliffe Crew</a><a></a>
+
+       
+      
+        <a href="http://www.gocrimson.com/sports/wcrew-hw/index" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Radcliffe 
+	Abbreviation : RADC 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>3</div> 
+	City : <span class="style6">Boston</span> 
+	StateRegion : <span class="style6">Massachusetts</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Santa Clara University Rowing
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/1873_1211512211407.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=1873">Santa Clara University Rowing</a><a></a>
+
+       
+      
+        <a href="http://www.santaclarabroncos.com/sports/w-crew/index" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Santa Clara 
+	Abbreviation : SCU 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>2</div> 
+	City : <span class="style6">Santa Clara</span> 
+	StateRegion : <span class="style6">California</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Stanford University Lightweight Women
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/3855_1299304708056.png" height="36" width="327"></div>
+	</div>
+	
+     <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/3855_1299304718443.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=3855">Stanford University Lightweight Women</a><a></a>
+
+       
+      
+        <a href="http://www.Gostanford.com" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Stanford Lightweight Women 
+	Abbreviation : Stan 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>3</div> 
+	City : <span class="style6">Stanford</span> 
+	StateRegion : <span class="style6">California</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Stanford University Men's Crew
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/1359_1242561155047.png" height="36" width="327"></div>
+	</div>
+	
+     <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/1359_1242561144302.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=1359">Stanford University Men's Crew</a><a></a>
+
+       
+      
+        <a href="http://www.gostanford.com" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Stanford Men's Crew 
+	Abbreviation : SUMC 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>2</div> 
+	City : <span class="style6">Stanford</span> 
+	StateRegion : <span class="style6">California</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Syracuse University
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/181_1315336736222.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=18">Syracuse University</a><a></a>
+
+       
+      
+        <a href="http://http://www.suathletics.com/index.asp?path=crew" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Syracuse 
+	Abbreviation : SYR 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>4</div> 
+	City : <span class="style6">Syracuse</span> 
+	StateRegion : <span class="style6">New York</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Temple University Rowing
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/1057_1211512790824.png" height="36" width="327"></div>
+	</div>
+	
+     <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/42_1211512800745.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=42">Temple University Rowing</a><a></a>
+
+       
+      
+        <a href="http://owlsports.cstv.com/sports/w-crew/tem-w-crew-body.html" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Temple 
+	Abbreviation : TU 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>2</div> 
+	City : <span class="style6">Philadelphia</span> 
+	StateRegion : <span class="style6">Pennsylvania</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+U.S. Naval Academy Men's Crew
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/59_1211513070024.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=59">U.S. Naval Academy Men's Crew</a><a></a>
+
+       
+      
+        <a href="http://www.navysports.com" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Naval Academy 
+	Abbreviation : UNAMC 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>5</div> 
+	City : <span class="style6">Annapolis</span> 
+	StateRegion : <span class="style6">Maryland</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+University of California-Berkeley
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/100_1211513484046.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=100">University of California-Berkeley</a><a></a>
+
+       
+      
+        <a href="http://www.calbearscrew.com/folder1/home.html" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : California 
+	Abbreviation : CAL 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>5</div> 
+	City : <span class="style6">Berkeley</span> 
+	StateRegion : <span class="style6">California</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+University of Pennsylvania Crew
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/1356_1211514137421.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=147">University of Pennsylvania Crew</a><a></a>
+
+       
+      
+        <a href="http://www.pennathletics.com/SportSelect.dbml?DB_OEM_ID=1700&amp;SPID=610&amp;SPSID=10661&amp;DB_OEM_ID=1700" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Penn 
+	Abbreviation : UPENN 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>8</div> 
+	City : <span class="style6">Philadelphia</span> 
+	StateRegion : <span class="style6">Pennsylvania</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+University of Tulsa Women's Rowing
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/5_1211507587215.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=5">University of Tulsa Women's Rowing</a><a></a>
+
+       
+      
+        <a href="http://tulsahurricane.cstv.com/sports/w-rowing/tuls-w-rowing-body.html" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Tulsa - Women 
+	Abbreviation : TULSW 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>2</div> 
+	City : <span class="style6">Tulsa</span> 
+	StateRegion : <span class="style6">Oklahoma</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+University of Washington
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/44_1211401126037.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=44">University of Washington</a><a></a>
+
+       
+      
+        <a href="http://gohuskies.cstv.com/sports/c-crew/wash-c-crew-body.html" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Washington 
+	Abbreviation : UWASH 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>5</div> 
+	City : <span class="style6">Seattle</span> 
+	StateRegion : <span class="style6">Washington</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+University of Wisconsin
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/2622_1211401062473.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=2622">University of Wisconsin</a><a></a>
+
+       
+      
+        <a href="http://www.uwbadgers.com" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : University of Wisconsin 
+	Abbreviation : UoW 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>9</div> 
+	City : <span class="style6">Madison</span> 
+	StateRegion : <span class="style6">Wisconsin</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Villanova-Wildcat Rowing Association
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/671_1241139821255.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=71">Villanova-Wildcat Rowing Association </a><a></a>
+
+       
+      
+        <a href="http://athletics.villanova.edu/mens_crew/" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Villanova 
+	Abbreviation : VU 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>1</div> 
+	City : <span class="style6">Villanova</span> 
+	StateRegion : <span class="style6">Pennsylvania</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+Yale University Crew -Women, Lightweight Men, Heavyweight Men
+	Blade : <div style="float:left;overflow:hidden;width:70px;margin-right:3px">
+     <div class="cropme">
+		<img oncontextmenu="contactOarSpotter();return false" src="/images/blades/177_1211370586294.png" height="36" width="327"></div>
+	</div> 
+	OfficialTeamName : <span class="style6">
+      <a href="/regatta/entries/?job_id=4122&amp;org_id=177">Yale University Crew -Women, Lightweight Men, Heavyweight Men</a><a></a>
+
+       
+      
+        <a href="http://www.yale.edu/rowing/" target="_new" class="style5"><img src="/images/external.gif" border="0"></a>
+          
+    </span> 
+	ShortName : Yale 
+	Abbreviation : Yale 
+	Entries : <span class="style6">
+	  
+      </span>
+	  <div align="right" class="style6"><font class="style4">0</font>7</div> 
+	City : <span class="style6">New Haven</span> 
+	StateRegion : <span class="style6">Connecticut</span> 
+	Country : <img src="https://rccdn.cachefly.net/images/ioc_flags/USA.png">  <span class="style6">USA</span> 
+
+	Blade : <ul id="footerMenu">
+			<li><a href="/information/about.jsp">About</a></li>
+			<li><a href="/information/privacy.jsp">Privacy Policy</a></li>
+			<li><a href="/information/terms.jsp">Terms &amp; Conditions</a></li>
+			<li><a href="/support.jsp">Help</a></li>
+		</ul> 

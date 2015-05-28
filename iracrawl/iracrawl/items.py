@@ -9,15 +9,25 @@ import scrapy
 
 
 class RegattaItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    regatta = scrapy.Field()
-    date = scrapy.Field()
-    duration = scrapy.Field()
-    type = scrapy.Field()
-    location = scrapy.Field()
-    deadline = scrapy.Field()
-    late_entry = scrapy.Field()
-    host = scrapy.Field()
-    venue = scrapy.Field()
+    GoverningBody = scrapy.Field()
+    Date = scrapy.Field()
+    Duration = scrapy.Field()
+    Event = scrapy.Field()
+    Type = scrapy.Field()
+    Location = scrapy.Field()
+    Deadline = scrapy.Field()
+    LateEntry = scrapy.Field()
+    Host = scrapy.Field()
+    Venue = scrapy.Field()
+    url = scrapy.Field()
+
+class ClubItem(scrapy.Item):
+    Blade = scrapy.Field()
+    OfficialTeamName = scrapy.Field()
+    ShortName = scrapy.Field()
+    Abbreviation = scrapy.Field()
+    Entries = scrapy.Field()
+    City = scrapy.Field()
+    StateRegion = scrapy.Field()
+    Country = scrapy.Field()
     url = scrapy.Field()

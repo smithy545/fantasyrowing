@@ -1,0 +1,251 @@
+
+Head of the Elk
+	Date : Sunday October 28, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=440">Head of the Elk</a> 
+	Results : <a href="/regatta/results.jsp?job_id=440">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=440">results</a> 
+	Type : head 
+	Host : Indiana Rowing Association 
+	Location : Elkhart, IN 
+	Venue : <a href="/venues/venue.jsp?venue_id=8">St. Joseph River</a> 
+Head of the Colorado (PumpkinHead)
+	Date : Saturday October 27, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=401">Head of the Colorado (PumpkinHead)</a> 
+	Results : <a href="/regatta/results.jsp?job_id=401">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=401">results</a> 
+	Type : head 
+	Host : Austin Rowing Club 
+	Location : Austin, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=59">Lady Bird Lake</a> 
+Speakmon Memorial Regatta
+	Date : Saturday October 27, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=170">Speakmon Memorial Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=170">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=170">results</a> 
+	Type : head 
+	Host : Greater Columbus Rowing Association 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=26">Griggs Reservoir (North)</a> 
+Head of the Tennessee
+	Date : Saturday October 20, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=290">Head of the Tennessee</a> 
+	Results : <a href="/regatta/results.jsp?job_id=290">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=290">results</a> 
+	Type : head 
+	Host : Knoxville Rowing Association 
+	Location : Knoxville, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=11">Ft. Loudon Lake/Tenn. River</a> 
+Stonehurst Capital Invitational
+	Date : Sunday October 14, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=300">Stonehurst Capital Invitational</a> 
+	Results :  
+	blank :  
+	Type : head/sprint 
+	Host : Univ of Rochester, RIT, Chamber of Comm. 
+	Location : Rochester, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=64">Genesee River- Ford Street Bridge</a> 
+WaterWorks Sprint Regatta
+	Date : Sunday October 14, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=450">WaterWorks Sprint Regatta</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Ohio Valley Rowing Club 
+	Location : Parkersburg, WV 
+	Venue : <a href="/venues/venue.jsp?venue_id=97">Ohio River</a> 
+Frogtown Races
+	Date : Saturday October 13, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=240">Frogtown Races</a> 
+	Results : <a href="/regatta/results.jsp?job_id=240">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=240">results</a> 
+	Type : head 
+	Host : Toledo Rowing Club 
+	Location : Toledo, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=86">Maumee River</a> 
+Mario Cuniberti Classic Invitational
+	Date : Saturday October 13, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=460">Mario Cuniberti Classic Invitational</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Greater Columbus Rowing Association 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=5">Griggs Reservoir (South)</a> 
+Head of the Ohio
+	Date : Saturday October 6, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=160">Head of the Ohio</a> 
+	Results : <a href="/regatta/results.jsp?job_id=160">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=160">results</a> 
+	Type : head 
+	Host : Three Rivers Rowing Association 
+	Location : Pittsburgh, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=44">Ohio/Allegheny Rivers</a> 
+Head of the Licking
+	Date : Saturday September 29, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=420">Head of the Licking</a> 
+	Results : <a href="/regatta/results.jsp?job_id=420">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=420">results</a> 
+	Type : head 
+	Host : Cincinnati Rowing Club 
+	Location : Newport, KY 
+	Venue : <a href="/venues/venue.jsp?venue_id=83">Licking River</a> 
+Head of the Cuyahoga
+	Date : Saturday September 22, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=430">Head of the Cuyahoga</a> 
+	Results : <a href="/regatta/results.jsp?job_id=430">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=430">results</a> 
+	Type : head/sprint 
+	Host : Western Reserve Rowing Foundation 
+	Location : Cleveland, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=4">Cuyahoga River</a> 
+Secret City Head Race
+	Date : Saturday September 22, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=410">Secret City Head Race</a> 
+	Results : <a href="/regatta/results.jsp?job_id=410">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=410">results</a> 
+	Type : head/sprint 
+	Host : Oak Ridge Rowing Association 
+	Location : Oak Ridge, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=20">Melton Hill Lake</a> 
+The Lottie McAllice Regatta
+	Date : Sunday July 15, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=200">The Lottie McAllice Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=200">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=200">results</a> 
+	Type : sprint 
+	Host : Three Rivers Rowing Association 
+	Location : Portersville, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=42">Lake Arthur</a> 
+Philadelphia Youth Regatta
+	Date : Saturday July 14, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=310">Philadelphia Youth Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=310">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=310">results</a> 
+	Type : sprint 
+	Host : Schuylkill Navy 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Independance Day Regatta
+	Date : Friday June 29, 2001 
+	Duration : 3 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=320">Independance Day Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=320">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=320">results</a> 
+	Type : sprint 
+	Host : Schuylkill Navy 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Michigan High School & Jr Rowing Championship
+	Date : Saturday May 26, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=280">Michigan High School &amp; Jr Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=280">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=280">results</a> 
+	Type : sprint 
+	Host : Friends of Detroit Rowing 
+	Location : Shelby Township, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=35">Stony Creek</a> 
+Midwest Scholastic Rowing Championship
+	Date : Saturday May 12, 2001 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=230">Midwest Scholastic Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=230">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=230">results</a> 
+	Type : sprint 
+	Host : Friends of Detroit Rowing 
+	Location : Shelby Township, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=35">Stony Creek</a> 
+Ohio Governors Cup Regatta
+	Date : Sunday May 6, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=260">Ohio Governors Cup Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=260">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=260">results</a> 
+	Type : sprint 
+	Host : Dublin Crew 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=26">Griggs Reservoir (North)</a> 
+Scholastic Sprints
+	Date : Sunday May 6, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=210">Scholastic Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=210">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=210">results</a> 
+	Type : sprint 
+	Host : Three Rivers Rowing Association 
+	Location : Portersville, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=42">Lake Arthur</a> 
+Oak Ridge Dogwood Regatta
+	Date : Sunday April 29, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=270">Oak Ridge Dogwood Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=270">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=270">results</a> 
+	Type : sprint 
+	Host : Oak Ridge Rowing Association 
+	Location : Oak Ridge, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=20">Melton Hill Lake</a> 
+Oak Ridge Scholastics Regatta
+	Date : Saturday April 28, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=250">Oak Ridge Scholastics Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=250">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=250">results</a> 
+	Type : sprint 
+	Host : Oak Ridge Rowing Association 
+	Location : Oak Ridge, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=20">Melton Hill Lake</a> 
+Pittsburgh Indoor Sprints
+	Date : Saturday February 3, 2001 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=220">Pittsburgh Indoor Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=220">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=220">results</a> 
+	Type : indoor 
+	Host : Three Rivers Rowing Association 
+	Location : Pittsburgh, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=122">Winchester-Thurston High School</a> 
+
+	Date : RegattaCentral © 1999-2015 
+	Duration : <ul id="footerMenu">
+			<li><a href="/information/about.jsp">About</a></li>
+			<li><a href="/information/privacy.jsp">Privacy Policy</a></li>
+			<li><a href="/information/terms.jsp">Terms &amp; Conditions</a></li>
+			<li><a href="/support.jsp">Help</a></li>
+		</ul> 

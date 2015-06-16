@@ -9,3 +9,7 @@
 class IracrawlPipeline(object):
     def process_item(self, item, spider):
         return item
+
+class ResultPipeline(object):
+    def process_item(self, item, spider):
+        print item["Event"]

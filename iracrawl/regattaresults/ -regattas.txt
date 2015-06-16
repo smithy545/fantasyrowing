@@ -1,0 +1,20 @@
+
+Speakmon Memorial Regatta
+	GoverningBody : Saturday October 30, 1999 
+	blank : 1 day 
+	Date :  
+	Duration : <a href="/regatta/index.jsp?job_id=100">Speakmon Memorial Regatta</a> 
+	Event : <a href="/regatta/results.jsp?job_id=100">Results</a> 
+	Results : <a href="/regatta/index.jsp?section=results&amp;job_id=100">results</a> 
+	Type : head 
+	Host : Greater Columbus Rowing Association 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=26">Griggs Reservoir (North)</a> 
+
+	GoverningBody : RegattaCentral © 1999-2015 
+	blank : <ul id="footerMenu">
+			<li><a href="/information/about.jsp">About</a></li>
+			<li><a href="/information/privacy.jsp">Privacy Policy</a></li>
+			<li><a href="/information/terms.jsp">Terms &amp; Conditions</a></li>
+			<li><a href="/support.jsp">Help</a></li>
+		</ul> 

@@ -1,0 +1,1846 @@
+
+Central Catholic Biathlon
+	Date : Saturday December 9, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=208">Central Catholic Biathlon</a> 
+	Results : <a href="/regatta/results.jsp?job_id=208">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=208">results</a> 
+	Type : head/sprint 
+	Host : Central Catholic Crew 
+	Location : Pittsburgh, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=141">Three Rivers Rowing Assoc - Lambert Boathouse</a> 
+USRowing Annual Convention
+	Date : Thursday November 30, 2006 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=33">USRowing Annual Convention</a> 
+	Results :  
+	blank :  
+	Type : convention 
+	Host : USRowing 
+	Location : Portland, OR 
+	Venue : <a href="/venues/venue.jsp?venue_id=135">Portland Marriott</a> 
+Schuylkill Navy Run
+	Date : Thursday November 23, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=251">Schuylkill Navy Run</a> 
+	Results : <a href="/regatta/results.jsp?job_id=251">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=251">results</a> 
+	Type : run 
+	Host : Schuylkill Navy 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=75">Kelly Drive</a> 
+BIAC Fall Regatta
+	Date : Sunday November 19, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=387">BIAC Fall Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=387">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=387">results</a> 
+	Type : head 
+	Host : Bair Island Aquatic Center (BIAC) 
+	Location : San Mateo, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=107">San Mateo Marina Lagoon</a> 
+Head of the St. Johns
+	Date : Saturday November 18, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=382">Head of the St. Johns</a> 
+	Results : <a href="/regatta/results.jsp?job_id=382">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=382">results</a> 
+	Type : head 
+	Host : Head of the St. Johns 
+	Location : Sanford, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=139">St. Johns River (Sanford)</a> 
+USRowing November Small Boats Regatta
+	Date : Saturday November 18, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=211">USRowing November Small Boats Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=211">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=211">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Princeton, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=76">Lake Carnegie</a> 
+Bill Braxton Memorial Regatta
+	Date : Sunday November 12, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=377">Bill Braxton Memorial Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=377">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=377">results</a> 
+	Type : sprint 
+	Host : Philadelphia Girls Rowing Club 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Head of the South
+	Date : Saturday November 11, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=403">Head of the South</a> 
+	Results : <a href="/regatta/results.jsp?job_id=403">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=403">results</a> 
+	Type : head 
+	Host : Augusta Rowing Club 
+	Location : Augusta, GA 
+	Venue : <a href="/venues/venue.jsp?venue_id=108">Savannah River</a> 
+Marathon Rowing Championships
+	Date : Saturday November 11, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=379">Marathon Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=379">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=379">results</a> 
+	Type : sprint 
+	Host : NSU/Natchitoches RC/City of Natchitoches 
+	Location : Natchitoches, LA 
+	Venue : <a href="/venues/venue.jsp?venue_id=54">Cane River Lake</a> 
+American Heritage River Fall Classic
+	Date : Sunday November 5, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=134">American Heritage River Fall Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=134">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=134">results</a> 
+	Type : head 
+	Host : Wyandotte Boat Club 
+	Location : Wyandotte, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=137">Trenton Channel</a> 
+Pull The Plug
+	Date : Sunday November 5, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=56">Pull The Plug</a> 
+	Results : <a href="/regatta/results.jsp?job_id=56">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=56">results</a> 
+	Type : head 
+	Host : Pittsford Crew 
+	Location : Pittsford, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=43">Erie Canal</a> 
+Row for the Cure - Austin
+	Date : Sunday November 5, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=42">Row for the Cure - Austin</a> 
+	Results :  
+	blank :  
+	Type : head/sprint 
+	Host : Austin Rowing Club 
+	Location : Austin, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=59">Lady Bird Lake</a> 
+San Diego Fall Classic
+	Date : Sunday November 5, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=130">San Diego Fall Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=130">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=130">results</a> 
+	Type : head 
+	Host : San Diego Rowing Club 
+	Location : San Diego, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=38">Fiesta Bay-Crown Point Shores</a> 
+Snowflake Regatta
+	Date : Sunday November 5, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=36">Snowflake Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=36">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=36">results</a> 
+	Type : head 
+	Host : East End RC & Sagamore RC 
+	Location : Riverhead, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=136">Peconic River</a> 
+Head of the Hooch
+	Date : Saturday November 4, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=378">Head of the Hooch</a> 
+	Results : <a href="/regatta/results.jsp?job_id=378">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=378">results</a> 
+	Type : head 
+	Host : Atlanta Rowing Club 
+	Location : Chattanooga, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=116">Tennessee River</a> 
+Portland LO/OP Regatta of Champions
+	Date : Saturday November 4, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=132">Portland LO/OP Regatta of Champions</a> 
+	Results : <a href="/regatta/results.jsp?job_id=132">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=132">results</a> 
+	Type : head 
+	Host : Oregon Rowing Unlimited 
+	Location : Portland, OR 
+	Venue : <a href="/venues/venue.jsp?venue_id=120">Willamette River</a> 
+Village to Village Challenge
+	Date : Saturday November 4, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=50">Village to Village Challenge</a> 
+	Results : <a href="/regatta/results.jsp?job_id=50">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=50">results</a> 
+	Type : head 
+	Host : Fairport Crew Club 
+	Location : Fairport, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=132">Erie Canal</a> 
+Head of the Elk
+	Date : Sunday October 29, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=356">Head of the Elk</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Indiana Rowing Association 
+	Location : Elkhart, IN 
+	Venue : <a href="/venues/venue.jsp?venue_id=8">St. Joseph River</a> 
+Head of the Iowa
+	Date : Sunday October 29, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=61">Head of the Iowa</a> 
+	Results : <a href="/regatta/results.jsp?job_id=61">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=61">results</a> 
+	Type : head 
+	Host : University of Iowa 
+	Location : Iowa City, IA 
+	Venue : <a href="/venues/venue.jsp?venue_id=74">Iowa River</a> 
+Head of the Lafayette
+	Date : Sunday October 29, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=329">Head of the Lafayette</a> 
+	Results : <a href="/regatta/results.jsp?job_id=329">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=329">results</a> 
+	Type : head 
+	Host : Hampton Roads Rowing Club 
+	Location : Norfolk, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=18">Lafayette River - Lakeood Park</a> 
+Row for the Cure - San Diego
+	Date : Sunday October 29, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=37">Row for the Cure - San Diego</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : UC San Diego Womens Crew 
+	Location : San Diego, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=137">Trenton Channel</a> 
+Gator Head Regatta
+	Date : Saturday October 28, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=34">Gator Head Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=34">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=34">results</a> 
+	Type : head 
+	Host : Gainesville Area Rowing 
+	Location : Gainesville, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=91">Newnans Lake</a> 
+Head of the Colorado (PumpkinHead)
+	Date : Saturday October 28, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=373">Head of the Colorado (PumpkinHead)</a> 
+	Results : <a href="/regatta/results.jsp?job_id=373">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=373">results</a> 
+	Type : head 
+	Host : Austin Rowing Club 
+	Location : Austin, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=59">Lady Bird Lake</a> 
+Head of the Tennessee
+	Date : Saturday October 28, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=956">Head of the Tennessee</a> 
+	Results : <a href="/regatta/results.jsp?job_id=956">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=956">results</a> 
+	Type : head 
+	Host : Knoxville Rowing Association 
+	Location : Knoxville, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=11">Ft. Loudon Lake/Tenn. River</a> 
+Hot Head Regatta
+	Date : Saturday October 28, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=388">Hot Head Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=388">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=388">results</a> 
+	Type : head 
+	Host : Tempe Rowers Association 
+	Location : Tempe, AZ 
+	Venue : <a href="/venues/venue.jsp?venue_id=115">SRP Town Lake Marina</a> 
+Speakmon Memorial Regatta
+	Date : Saturday October 28, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=778">Speakmon Memorial Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=778">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=778">results</a> 
+	Type : head 
+	Host : Greater Columbus Rowing Association 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=26">Griggs Reservoir (North)</a> 
+Head of the Cape Fear
+	Date : Saturday October 21, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=52">Head of the Cape Fear</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Cape Fear River Rowing Club & UNCW Crew Club 
+	Location : Wilmington, NC 
+	Venue : <a href="/venues/venue.jsp?venue_id=134">Cape Fear River</a> 
+Head of the Eagle
+	Date : Saturday October 21, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=368">Head of the Eagle</a> 
+	Results : <a href="/regatta/results.jsp?job_id=368">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=368">results</a> 
+	Type : head 
+	Host : Indianapolis Rowing Center 
+	Location : Indianapolis, IN 
+	Venue : <a href="/venues/venue.jsp?venue_id=10">Eagle Creek</a> 
+Hobbs Island Regatta
+	Date : Saturday October 21, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=397">Hobbs Island Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=397">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=397">results</a> 
+	Type : head 
+	Host : Rocket City Rowing Club 
+	Location : Huntsville, AL 
+	Venue : <a href="/venues/venue.jsp?venue_id=117">Tennessee River</a> 
+Schuylkill Banks Regatta
+	Date : Saturday October 21, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=369">Schuylkill Banks Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=369">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=369">results</a> 
+	Type : henley 
+	Host : Schuylkill Navy 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=125">Schuylkill River (Lower)</a> 
+Frogtown Races
+	Date : Sunday October 15, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=402">Frogtown Races</a> 
+	Results : <a href="/regatta/results.jsp?job_id=402">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=402">results</a> 
+	Type : head 
+	Host : Toledo Rowing Club 
+	Location : Toledo, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=86">Maumee River</a> 
+Head of the Indian Creek
+	Date : Sunday October 15, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=395">Head of the Indian Creek</a> 
+	Results : <a href="/regatta/results.jsp?job_id=395">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=395">results</a> 
+	Type : head 
+	Host : Miami Beach Watersports Center 
+	Location : Miami Beach, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=72">Indian Creek</a> 
+Head of the Passaic
+	Date : Sunday October 15, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=408">Head of the Passaic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=408">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=408">results</a> 
+	Type : head 
+	Host : Nereid Boat Club 
+	Location : Rutherford, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=100">Passaic River</a> 
+Chattanooga Head Race
+	Date : Saturday October 14, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=366">Chattanooga Head Race</a> 
+	Results : <a href="/regatta/results.jsp?job_id=366">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=366">results</a> 
+	Type : head 
+	Host : Lookout Rowing Club 
+	Location : Chatanooga, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=116">Tennessee River</a> 
+Head of Lanier
+	Date : Saturday October 14, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=375">Head of Lanier</a> 
+	Results : <a href="/regatta/results.jsp?job_id=375">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=375">results</a> 
+	Type : head 
+	Host : Lake Lanier Rowing Club 
+	Location : Gainesville, GA 
+	Venue : <a href="/venues/venue.jsp?venue_id=79">Lake Lanier</a> 
+Head of the Class
+	Date : Saturday October 14, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=389">Head of the Class</a> 
+	Results : <a href="/regatta/results.jsp?job_id=389">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=389">results</a> 
+	Type : head 
+	Host : Niskayuna High School 
+	Location : Rexford, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=39">Mohawk River</a> 
+New Hampshire Championships Regatta
+	Date : Saturday October 14, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=354">New Hampshire Championships Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=354">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=354">results</a> 
+	Type : head 
+	Host : Amoskeag Rowing Club 
+	Location : Pembroke, NH 
+	Venue : <a href="/venues/venue.jsp?venue_id=88">Merrimack River</a> 
+Head of the Genesee
+	Date : Sunday October 8, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=41">Head of the Genesee</a> 
+	Results : <a href="/regatta/results.jsp?job_id=41">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=41">results</a> 
+	Type : head/sprint 
+	Host : Genesee Waterways Center 
+	Location : Rochester, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=129">Genesee River</a> 
+Wine Country Rowing Classic
+	Date : Sunday October 8, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=16">Wine Country Rowing Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=16">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=16">results</a> 
+	Type : head 
+	Host : North Bay Rowing Club & Sonoma State University 
+	Location : Petaluma, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=128">Petaluma River</a> 
+Columbus Fall Classic
+	Date : Saturday October 7, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=843">Columbus Fall Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=843">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=843">results</a> 
+	Type : head 
+	Host : Westerville RA & Ohio State Crew Club 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=25">Hoover Reservoir</a> 
+Head of the Housatonic
+	Date : Saturday October 7, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=383">Head of the Housatonic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=383">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=383">results</a> 
+	Type : head 
+	Host : New Haven Rowing Club 
+	Location : Shelton, CT 
+	Venue : <a href="/venues/venue.jsp?venue_id=70">Housatonic River</a> 
+Head of the Ohio
+	Date : Saturday October 7, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=308">Head of the Ohio</a> 
+	Results : <a href="/regatta/results.jsp?job_id=308">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=308">results</a> 
+	Type : head 
+	Host : Three Rivers Rowing Association 
+	Location : Pittsburgh, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=44">Ohio/Allegheny Rivers</a> 
+Secret City Head Race
+	Date : Saturday October 7, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=776">Secret City Head Race</a> 
+	Results : <a href="/regatta/results.jsp?job_id=776">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=776">results</a> 
+	Type : head 
+	Host : Oak Ridge Rowing Association 
+	Location : Oak Ridge, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=20">Melton Hill Lake</a> 
+The McAndrew Cup
+	Date : Saturday October 7, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=32">The McAndrew Cup</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Wilkes University Crew Club 
+	Location : Wilkes-Barre, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=133">Susquehanna River</a> 
+Five Rivers Fall Regatta
+	Date : Sunday October 1, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=324">Five Rivers Fall Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=324">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=324">results</a> 
+	Type : head 
+	Host : Greater Dayton Rowing Association 
+	Location : Dayton, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=6">Great Miami River</a> 
+Head of the Christina
+	Date : Sunday October 1, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=347">Head of the Christina</a> 
+	Results : <a href="/regatta/results.jsp?job_id=347">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=347">results</a> 
+	Type : head 
+	Host : WYRA 
+	Location : Wilmington, DE 
+	Venue : <a href="/venues/venue.jsp?venue_id=27">Christina River</a> 
+Head of the Dog
+	Date : Sunday October 1, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=49">Head of the Dog</a> 
+	Results : <a href="/regatta/results.jsp?job_id=49">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=49">results</a> 
+	Type : head 
+	Host : Portland Boat Club 
+	Location : Portland, OR 
+	Venue : <a href="/venues/venue.jsp?venue_id=131">Multnomah Channel</a> 
+Head of the San Joaquin
+	Date : Sunday October 1, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=53">Head of the San Joaquin</a> 
+	Results : <a href="/regatta/results.jsp?job_id=53">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=53">results</a> 
+	Type : head 
+	Host : Stockton Rowing Club, Inc. 
+	Location : Stockton, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=106">Stockton Deep Water Channel</a> 
+Tail of the Fox
+	Date : Sunday October 1, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=367">Tail of the Fox</a> 
+	Results : <a href="/regatta/results.jsp?job_id=367">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=367">results</a> 
+	Type : head 
+	Host : La Baie Verte Rowing Club 
+	Location : De Pere, WI 
+	Venue : <a href="/venues/venue.jsp?venue_id=63">Fox River</a> 
+Textile River Regatta
+	Date : Sunday October 1, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=46">Textile River Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=46">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=46">results</a> 
+	Type : head 
+	Host : Textile River Committee 
+	Location : Lowell, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=12">Merrimack River</a> 
+Head of the Hudson
+	Date : Saturday September 30, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=392">Head of the Hudson</a> 
+	Results : <a href="/regatta/results.jsp?job_id=392">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=392">results</a> 
+	Type : head 
+	Host : Albany Rowing Center 
+	Location : Albany, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=71">Hudson River</a> 
+Hutchinson Cup Regatta
+	Date : Saturday September 30, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=376">Hutchinson Cup Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=376">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=376">results</a> 
+	Type : head 
+	Host : Hutchinson Cup Regatta 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+OCU Head of the Oklahoma
+	Date : Saturday September 30, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=394">OCU Head of the Oklahoma</a> 
+	Results : <a href="/regatta/results.jsp?job_id=394">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=394">results</a> 
+	Type : head/sprint 
+	Host : Oklahoma City University 
+	Location : Oklahoma City, OK 
+	Venue : <a href="/venues/venue.jsp?venue_id=98">Oklahoma River</a> 
+Row for the Cure - Jacksonville
+	Date : Saturday September 30, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=43">Row for the Cure - Jacksonville</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Jacksonville Rowing Club 
+	Location : Jacksonville, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=130">St. Johns, Arlington Rivers &amp; Pottsburgh Creek</a> 
+GMS Regatta
+	Date : Sunday September 24, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=327">GMS Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=327">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=327">results</a> 
+	Type : head 
+	Host : GMS Rowing Center 
+	Location : New Milford, CT 
+	Venue : <a href="/venues/venue.jsp?venue_id=16">Lake Lillinonah</a> 
+Lift Bridge Regatta
+	Date : Sunday September 24, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=396">Lift Bridge Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=396">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=396">results</a> 
+	Type : head 
+	Host : Fairport Crew Club 
+	Location : Fairport, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=43">Erie Canal</a> 
+East Fork Chase Regatta
+	Date : Saturday September 23, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=365">East Fork Chase Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=365">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=365">results</a> 
+	Type : head 
+	Host : Cincinnati Rowing Club 
+	Location : Cincinnati, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=2">Harsha Lake</a> 
+Meredith Bay Regatta
+	Date : Saturday September 23, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=323">Meredith Bay Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=323">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=323">results</a> 
+	Type : head 
+	Host : Winnipesaukee Rowing Club 
+	Location : Meredith, NH 
+	Venue : <a href="/venues/venue.jsp?venue_id=14">Meredith Bay</a> 
+Row for the Cure - Portland
+	Date : Sunday September 17, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=385">Row for the Cure - Portland</a> 
+	Results : <a href="/regatta/results.jsp?job_id=385">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=385">results</a> 
+	Type : head 
+	Host : Station L Rowing Club 
+	Location : Portland, OR 
+	Venue : <a href="/venues/venue.jsp?venue_id=120">Willamette River</a> 
+Row for the Cure - Seattle
+	Date : Sunday September 17, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=386">Row for the Cure - Seattle</a> 
+	Results : <a href="/regatta/results.jsp?job_id=386">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=386">results</a> 
+	Type : head 
+	Host : Pocock Rowing 
+	Location : Seattle, WA 
+	Venue : <a href="/venues/venue.jsp?venue_id=82">Lake Union</a> 
+Head of the Cuyahoga
+	Date : Saturday September 16, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=364">Head of the Cuyahoga</a> 
+	Results : <a href="/regatta/results.jsp?job_id=364">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=364">results</a> 
+	Type : head 
+	Host : Cleveland Rowing Foundation 
+	Location : Cleveland, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=4">Cuyahoga River</a> 
+Pittsburgh Dragon Boat Races
+	Date : Saturday September 16, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=307">Pittsburgh Dragon Boat Races</a> 
+	Results : <a href="/regatta/results.jsp?job_id=307">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=307">results</a> 
+	Type : sprint 
+	Host : Three Rivers Rowing Association 
+	Location : Pittsburgh, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=28">Monongahela River</a> 
+Pittsburgh Dragon Boat Races - Quick Start
+	Date : Saturday September 16, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=44">Pittsburgh Dragon Boat Races - Quick Start</a> 
+	Results : <a href="/regatta/results.jsp?job_id=44">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=44">results</a> 
+	Type : sprint 
+	Host : Three Rivers Rowing Association 
+	Location : Pittsburgh, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=28">Monongahela River</a> 
+Row for the Cure - Great Salt Lake
+	Date : Saturday September 16, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=404">Row for the Cure - Great Salt Lake</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Great Salt Lake Rowing 
+	Location : Magna, UT 
+	Venue : <a href="/venues/venue.jsp?venue_id=126">Great Salt Lake Marina</a> 
+Petaluma River Marathon
+	Date : Sunday September 3, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=12">Petaluma River Marathon</a> 
+	Results : <a href="/regatta/results.jsp?job_id=12">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=12">results</a> 
+	Type : head 
+	Host : North Bay Rowing Club 
+	Location : Petaluma, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=128">Petaluma River</a> 
+NWIRA Championships
+	Date : Friday August 18, 2006 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=405">NWIRA Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=405">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=405">results</a> 
+	Type : sprint 
+	Host : Northwestern Intl Rowing Assoc 
+	Location : Duluth, MN 
+	Venue : <a href="/venues/venue.jsp?venue_id=127">Lake Superior Bay</a> 
+USRowing Masters National Championships
+	Date : Thursday August 10, 2006 
+	Duration : 4 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=309">USRowing Masters National Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=309">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=309">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Seattle, WA 
+	Venue : <a href="/venues/venue.jsp?venue_id=36">Green Lake</a> 
+Northeast Middle School Sculling Championships
+	Date : Saturday August 5, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=393">Northeast Middle School Sculling Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=393">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=393">results</a> 
+	Type : sprint 
+	Host : Niskayuna High School 
+	Location : Rexford, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=39">Mohawk River</a> 
+Oak Ridge Sprints
+	Date : Saturday August 5, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=774">Oak Ridge Sprints</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Oak Ridge Rowing Association 
+	Location : Oak Ridge, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=20">Melton Hill Lake</a> 
+Quaker City Masters Regatta
+	Date : Saturday August 5, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=882">Quaker City Masters Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=882">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=882">results</a> 
+	Type : sprint 
+	Host : Fairmount Rowing Association 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+USRowing Senior & Adaptive World Trials
+	Date : Monday July 31, 2006 
+	Duration : 5 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=14">USRowing Senior &amp; Adaptive World Trials</a> 
+	Results : <a href="/regatta/results.jsp?job_id=14">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=14">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Mercer County, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+USRowing Midwest Masters Regional Championships
+	Date : Saturday July 29, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=370">USRowing Midwest Masters Regional Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=370">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=370">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Indianapolis, IN 
+	Venue : <a href="/venues/venue.jsp?venue_id=10">Eagle Creek</a> 
+USRowing National Championships
+	Date : Wednesday July 19, 2006 
+	Duration : 5 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=311">USRowing National Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=311">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=311">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Indianapolis, IN 
+	Venue : <a href="/venues/venue.jsp?venue_id=10">Eagle Creek</a> 
+Chicago Sprints
+	Date : Saturday July 15, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=374">Chicago Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=374">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=374">results</a> 
+	Type : sprint 
+	Host : Lincoln Park Boat Club 
+	Location : Chicago, IL 
+	Venue : <a href="/venues/venue.jsp?venue_id=111">Lincoln Park Lagoon</a> 
+Lawrence Celebration Regatta
+	Date : Saturday July 15, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=322">Lawrence Celebration Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=322">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=322">results</a> 
+	Type : sprint 
+	Host : City of Lawrence 
+	Location : Lawrence, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=12">Merrimack River</a> 
+Philadelphia Youth Regatta
+	Date : Saturday July 15, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=361">Philadelphia Youth Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=361">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=361">results</a> 
+	Type : sprint 
+	Host : Schuylkill Navy 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Sweeps and Sculls Regatta
+	Date : Saturday July 15, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=317">Sweeps and Sculls Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=317">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=317">results</a> 
+	Type : sprint 
+	Host : Narragansett Boat Club 
+	Location : Providence, RI 
+	Venue : <a href="/venues/venue.jsp?venue_id=41">Seekonk River</a> 
+USRowing SW Masters/Open Championships
+	Date : Sunday July 9, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=343">USRowing SW Masters/Open Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=343">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=343">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Rancho Cordova, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=40">Lake Natoma</a> 
+Festival Regatta
+	Date : Saturday July 8, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=398">Festival Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=398">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=398">results</a> 
+	Type : sprint 
+	Host : Merrimack River Rowing Association 
+	Location : Lowell, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=12">Merrimack River</a> 
+USRowing U23 World Championship Trials
+	Date : Thursday July 6, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=400">USRowing U23 World Championship Trials</a> 
+	Results : <a href="/regatta/results.jsp?job_id=400">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=400">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Princeton, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=76">Lake Carnegie</a> 
+Independence Day Regatta
+	Date : Friday June 30, 2006 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=360">Independence Day Regatta</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Schuylkill Navy 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Carnegie Lake Regatta
+	Date : Sunday June 25, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=371">Carnegie Lake Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=371">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=371">results</a> 
+	Type : sprint 
+	Host : Carnegie Lake Rowing Association 
+	Location : Princeton, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=76">Lake Carnegie</a> 
+St. Louis Gateway Regatta
+	Date : Saturday June 24, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=391">St. Louis Gateway Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=391">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=391">results</a> 
+	Type : sprint 
+	Host : St. Louis Rowing Club 
+	Location : St. Louis, MO 
+	Venue : <a href="/venues/venue.jsp?venue_id=34">Creve Coeur Lake</a> 
+USRowing Southeast Regional Championships
+	Date : Saturday June 24, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=384">USRowing Southeast Regional Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=384">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=384">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Aiken, SC 
+	Venue : <a href="/venues/venue.jsp?venue_id=1">Langley Pond</a> 
+USRowing NW Regional Masters Championship
+	Date : Friday June 23, 2006 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=349">USRowing NW Regional Masters Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=349">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=349">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Vancouver, WA 
+	Venue : <a href="/venues/venue.jsp?venue_id=31">Vancouver Lake</a> 
+USRowing Junior World Championship Trials
+	Date : Tuesday June 20, 2006 
+	Duration : 4 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=390">USRowing Junior World Championship Trials</a> 
+	Results : <a href="/regatta/results.jsp?job_id=390">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=390">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Mercer County, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+Detroit Boat Club Crew Regatta
+	Date : Saturday June 17, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=362">Detroit Boat Club Crew Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=362">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=362">results</a> 
+	Type : sprint 
+	Host : Detroit Boat Club 
+	Location : Detroit, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=7">Detroit River</a> 
+Schuylkill Navy Regatta
+	Date : Saturday June 17, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=282">Schuylkill Navy Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=282">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=282">results</a> 
+	Type : sprint 
+	Host : Schuylkill Navy 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Derby Sweeps and Sculls
+	Date : Saturday June 10, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=372">Derby Sweeps and Sculls</a> 
+	Results : <a href="/regatta/results.jsp?job_id=372">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=372">results</a> 
+	Type : sprint 
+	Host : New Haven Rowing Club 
+	Location : Shelton, CT 
+	Venue : <a href="/venues/venue.jsp?venue_id=70">Housatonic River</a> 
+Pittsford Regatta
+	Date : Saturday June 10, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=331">Pittsford Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=331">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=331">results</a> 
+	Type : sprint 
+	Host : Pittsford Crew 
+	Location : Pittsford, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=43">Erie Canal</a> 
+USRowing Youth National Championship
+	Date : Friday June 9, 2006 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=302">USRowing Youth National Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=302">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=302">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Cincinnati, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=2">Harsha Lake</a> 
+Midwest Masters Sprints
+	Date : Saturday June 3, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=350">Midwest Masters Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=350">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=350">results</a> 
+	Type : sprint 
+	Host : Greater Columbus Rowing Association 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=5">Griggs Reservoir (South)</a> 
+Stonewall Regatta
+	Date : Saturday June 3, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=314">Stonewall Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=314">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=314">results</a> 
+	Type : sprint 
+	Host : DC Strokes Rowing Club 
+	Location : Washington, DC 
+	Venue : <a href="/venues/venue.jsp?venue_id=30">Anacostia River</a> 
+Tulsa Route 66 Regatta
+	Date : Saturday June 3, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=351">Tulsa Route 66 Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=351">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=351">results</a> 
+	Type : sprint 
+	Host : Tulsa Rowing Club 
+	Location : Tusla, OK 
+	Venue : <a href="/venues/venue.jsp?venue_id=32">Zink Lake</a> 
+IRA National Championship
+	Date : Thursday June 1, 2006 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=339">IRA National Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=339">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=339">results</a> 
+	Type : sprint 
+	Host : ECAC 
+	Location : Cherry Hill, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=3">Cooper River</a> 
+Michigan High School & Jr Rowing Championship
+	Date : Saturday May 27, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=340">Michigan High School &amp; Jr Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=340">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=340">results</a> 
+	Type : sprint 
+	Host : Friends of Detroit Rowing 
+	Location : Shelby Township, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=35">Stony Creek</a> 
+Mid-Atlantic Championship
+	Date : Saturday May 27, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=363">Mid-Atlantic Championship</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Camden, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=3">Cooper River</a> 
+EARC Sprint Championships
+	Date : Sunday May 21, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=345">EARC Sprint Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=345">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=345">results</a> 
+	Type : sprint 
+	Host : ECAC 
+	Location : Worcester, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+Brundage Memorial Regatta
+	Date : Saturday May 20, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=335">Brundage Memorial Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=335">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=335">results</a> 
+	Type : sprint 
+	Host : PHS, PSHS, & OVRC 
+	Location : Parkersburg, WV 
+	Venue : <a href="/venues/venue.jsp?venue_id=97">Ohio River</a> 
+Mayors Cup Regatta
+	Date : Saturday May 20, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=316">Mayors Cup Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=316">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=316">results</a> 
+	Type : sprint 
+	Host : Narragansett Boat Club 
+	Location : Providence, RI 
+	Venue : <a href="/venues/venue.jsp?venue_id=41">Seekonk River</a> 
+Midwest Junior Rowing Championship
+	Date : Saturday May 20, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=359">Midwest Junior Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=359">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=359">results</a> 
+	Type : sprint 
+	Host : Cincinnati Junior Rowing Club 
+	Location : Bethel, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=2">Harsha Lake</a> 
+USRowing SW Junior Championship
+	Date : Saturday May 20, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=342">USRowing SW Junior Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=342">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=342">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Rancho Cordova, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=40">Lake Natoma</a> 
+National Selection Regatta III
+	Date : Friday May 19, 2006 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=358">National Selection Regatta III</a> 
+	Results : <a href="/regatta/results.jsp?job_id=358">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=358">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Mercer County, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+Stotesbury Cup Regatta
+	Date : Friday May 19, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=281">Stotesbury Cup Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=281">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=281">results</a> 
+	Type : sprint 
+	Host : Schuylkill Navy 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+USRowing NW Junior Regionals
+	Date : Friday May 19, 2006 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=348">USRowing NW Junior Regionals</a> 
+	Results : <a href="/regatta/results.jsp?job_id=348">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=348">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Vancouver, WA 
+	Venue : <a href="/venues/venue.jsp?venue_id=31">Vancouver Lake</a> 
+EAWRC Sprint Championships
+	Date : Sunday May 14, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=344">EAWRC Sprint Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=344">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=344">results</a> 
+	Type : sprint 
+	Host : ECAC 
+	Location : Cherry Hill, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=3">Cooper River</a> 
+Robert White Regatta
+	Date : Sunday May 14, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=869">Robert White Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=869">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=869">results</a> 
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Phladelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+ECAC/NIRC
+	Date : Saturday May 13, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=346">ECAC/NIRC</a> 
+	Results : <a href="/regatta/results.jsp?job_id=346">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=346">results</a> 
+	Type : sprint 
+	Host : ECAC 
+	Location : Worcester, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+Midwest Scholastic Rowing Championship
+	Date : Saturday May 13, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=381">Midwest Scholastic Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=381">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=381">results</a> 
+	Type : sprint 
+	Host : Clermont Crew & CCD 
+	Location : Cincinnati, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=2">Harsha Lake</a> 
+New York State Scholastic Championship
+	Date : Saturday May 13, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=901">New York State Scholastic Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=901">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=901">results</a> 
+	Type : sprint 
+	Host : Saratoga Rowing Association 
+	Location : Saratoga Spring, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=37">Fish Creek</a> 
+Southeast Youth Championship Regatta
+	Date : Saturday May 13, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=315">Southeast Youth Championship Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=315">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=315">results</a> 
+	Type : sprint 
+	Host : SE Youth Rowing Committee 
+	Location : Tampa, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=33">Bypass Canal</a> 
+City Championships
+	Date : Sunday May 7, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=868">City Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=868">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=868">results</a> 
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Phladelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+New England Rowing Championships (NERC)
+	Date : Sunday May 7, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=326">New England Rowing Championships (NERC)</a> 
+	Results : <a href="/regatta/results.jsp?job_id=326">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=326">results</a> 
+	Type : sprint 
+	Host : ECAC 
+	Location : Worcester, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+Aiken-Augusta Masters Regatta
+	Date : Saturday May 6, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=353">Aiken-Augusta Masters Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=353">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=353">results</a> 
+	Type : sprint 
+	Host : Augusta Rowing Club 
+	Location : Aiken, SC 
+	Venue : <a href="/venues/venue.jsp?venue_id=1">Langley Pond</a> 
+ECAC METRO
+	Date : Saturday May 6, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=334">ECAC METRO</a> 
+	Results : <a href="/regatta/results.jsp?job_id=334">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=334">results</a> 
+	Type : sprint 
+	Host : ECAC 
+	Location : Worcester, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+New England Fours (NE Fours)
+	Date : Saturday May 6, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=330">New England Fours (NE Fours)</a> 
+	Results : <a href="/regatta/results.jsp?job_id=330">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=330">results</a> 
+	Type : sprint 
+	Host : ECAC 
+	Location : Worcester, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+Scholastic Sprints
+	Date : Saturday May 6, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=305">Scholastic Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=305">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=305">results</a> 
+	Type : sprint 
+	Host : Three Rivers Rowing Association 
+	Location : Portersville, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=42">Lake Arthur</a> 
+New York State Scholastic Section 2 Championship
+	Date : Friday May 5, 2006 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=332">New York State Scholastic Section 2 Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=332">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=332">results</a> 
+	Type : sprint 
+	Host : Niskayuna High and Friends of Niskayuna Rowing 
+	Location : Rexford, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=39">Mohawk River</a> 
+Catholic Championships
+	Date : Sunday April 30, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=867">Catholic Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=867">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=867">results</a> 
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Phladelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Cooper Cup
+	Date : Sunday April 30, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=355">Cooper Cup</a> 
+	Results : <a href="/regatta/results.jsp?job_id=355">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=355">results</a> 
+	Type : sprint 
+	Host : South Jersey Rowing 
+	Location : Cherry Hill, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=3">Cooper River</a> 
+Patriot Challenge
+	Date : Sunday April 30, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=337">Patriot Challenge</a> 
+	Results : <a href="/regatta/results.jsp?job_id=337">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=337">results</a> 
+	Type : sprint 
+	Host : ECAC 
+	Location : Worcester, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+Patriot League
+	Date : Sunday April 30, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=336">Patriot League</a> 
+	Results : <a href="/regatta/results.jsp?job_id=336">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=336">results</a> 
+	Type : sprint 
+	Host : ECAC 
+	Location : Worcester, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+The American Women's Rowing Championship
+	Date : Sunday April 30, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=338">The American Women's Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=338">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=338">results</a> 
+	Type : sprint 
+	Host : ECAC 
+	Location : Worcester, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+Long Beach Invitational
+	Date : Saturday April 29, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=380">Long Beach Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=380">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=380">results</a> 
+	Type : sprint 
+	Host : Long Beach Junior Crew 
+	Location : Long Beach, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=13">Long Beach Marine Stadium</a> 
+New Jersey Scholastic Rowing Championship
+	Date : Saturday April 29, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=124">New Jersey Scholastic Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=124">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=124">results</a> 
+	Type : sprint 
+	Host : New Jersey Scholastic Rowing Assoc 
+	Location : Cherry Hill, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=3">Cooper River</a> 
+Ohio Governors Cup Regatta
+	Date : Saturday April 29, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=848">Ohio Governors Cup Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=848">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=848">results</a> 
+	Type : sprint 
+	Host : Dublin Crew 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=26">Griggs Reservoir (North)</a> 
+WV Governors Cup
+	Date : Saturday April 29, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=341">WV Governors Cup</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : University of Charleston 
+	Location : Charleston, WV 
+	Venue : <a href="/venues/venue.jsp?venue_id=47">Kanawha River</a> 
+National Selection Regatta II
+	Date : Friday April 28, 2006 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=357">National Selection Regatta II</a> 
+	Results : <a href="/regatta/results.jsp?job_id=357">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=357">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Mercer County, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+5th Manny Flick / Horvat Series
+	Date : Sunday April 23, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=866">5th Manny Flick / Horvat Series</a> 
+	Results : <a href="/regatta/results.jsp?job_id=866">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=866">results</a> 
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Hoover Invitational
+	Date : Saturday April 22, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=842">Hoover Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=842">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=842">results</a> 
+	Type : sprint 
+	Host : Westerville Rowing Association 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=25">Hoover Reservoir</a> 
+NYC Junior Sprints
+	Date : Saturday April 22, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=321">NYC Junior Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=321">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=321">results</a> 
+	Type : sprint 
+	Host : Row New York and Sagamore Rowing 
+	Location : New York, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=17">Meadow Lake</a> 
+Oak Ridge Dogwood Regatta
+	Date : Saturday April 22, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=773">Oak Ridge Dogwood Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=773">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=773">results</a> 
+	Type : sprint 
+	Host : Oak Ridge Rowing Association 
+	Location : Oak Ridge, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=20">Melton Hill Lake</a> 
+Saratoga Invitational
+	Date : Saturday April 22, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=319">Saratoga Invitational</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Saratoga Rowing Association 
+	Location : Saratoga Spring, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=37">Fish Creek</a> 
+SIRA
+	Date : Friday April 14, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=772">SIRA</a> 
+	Results : <a href="/regatta/results.jsp?job_id=772">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=772">results</a> 
+	Type : sprint 
+	Host : Southern Intercollegiate Rowing Assoc 
+	Location : Oak Ridge, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=20">Melton Hill Lake</a> 
+4th Manny Flick / Horvat Series
+	Date : Sunday April 9, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=864">4th Manny Flick / Horvat Series</a> 
+	Results : <a href="/regatta/results.jsp?job_id=864">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=864">results</a> 
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Covered Bridge Regatta
+	Date : Saturday April 8, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=328">Covered Bridge Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=328">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=328">results</a> 
+	Type : sprint 
+	Host : Oregon Association of Rowers 
+	Location : Eugene, OR 
+	Venue : <a href="/venues/venue.jsp?venue_id=9">Dexter Lake</a> 
+Miami International Regatta
+	Date : Saturday April 8, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=325">Miami International Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=325">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=325">results</a> 
+	Type : sprint 
+	Host : Miami Rowing & Watersports (MRC) 
+	Location : Miami, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=15">Biscayne Bay</a> 
+St. Louis Sprints
+	Date : Saturday April 8, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=283">St. Louis Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=283">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=283">results</a> 
+	Type : sprint 
+	Host : St. Louis Rowing Club 
+	Location : St. Louis, MO 
+	Venue : <a href="/venues/venue.jsp?venue_id=34">Creve Coeur Lake</a> 
+The Ohio Cup
+	Date : Saturday April 8, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=312">The Ohio Cup</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Ohio State University Crew Club 
+	Location : Westerville, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=25">Hoover Reservoir</a> 
+National Selection Regatta I
+	Date : Friday April 7, 2006 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=352">National Selection Regatta I</a> 
+	Results : <a href="/regatta/results.jsp?job_id=352">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=352">results</a> 
+	Type : sprint 
+	Host : USRowing 
+	Location : Mercer County, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+3rd Manny Flick / Horvat Series
+	Date : Sunday April 2, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=863">3rd Manny Flick / Horvat Series</a> 
+	Results : <a href="/regatta/results.jsp?job_id=863">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=863">results</a> 
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+John Hunter Regatta
+	Date : Saturday April 1, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=771">John Hunter Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=771">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=771">results</a> 
+	Type : sprint 
+	Host : St. Andrew RC & Georgia Tech 
+	Location : Oak Ridge, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=20">Melton Hill Lake</a> 
+Redhawk Sprints
+	Date : Saturday April 1, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=958">Redhawk Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=958">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=958">results</a> 
+	Type : sprint 
+	Host : Miami University 
+	Location : Oxford, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=22">Acton Lake</a> 
+San Diego Crew Classic
+	Date : Saturday April 1, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=48">San Diego Crew Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=48">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=48">results</a> 
+	Type : sprint 
+	Host : San Diego Crew Classic 
+	Location : San Diego, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=38">Fiesta Bay-Crown Point Shores</a> 
+2nd Manny Flick / Horvat Series
+	Date : Sunday March 26, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=862">2nd Manny Flick / Horvat Series</a> 
+	Results : <a href="/regatta/results.jsp?job_id=862">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=862">results</a> 
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Clemson Sprints Regatta
+	Date : Saturday March 25, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=235">Clemson Sprints Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=235">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=235">results</a> 
+	Type : sprint 
+	Host : Clemson University Rowing Association 
+	Location : Clemson, SC 
+	Venue : <a href="/venues/venue.jsp?venue_id=78">Lake Hartwell</a> 
+Lanier Sprints
+	Date : Saturday March 25, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=844">Lanier Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=844">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=844">results</a> 
+	Type : sprint 
+	Host : Lake Lanier Rowing Club 
+	Location : Gainesville, GA 
+	Venue : <a href="/venues/venue.jsp?venue_id=79">Lake Lanier</a> 
+1st Manny Flick / Horvat Series
+	Date : Sunday March 19, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=861">1st Manny Flick / Horvat Series</a> 
+	Results : <a href="/regatta/results.jsp?job_id=861">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=861">results</a> 
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Augusta Invitational Regatta
+	Date : Saturday March 18, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=202">Augusta Invitational Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=202">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=202">results</a> 
+	Type : sprint 
+	Host : Augusta Rowing Club 
+	Location : Aiken, SC 
+	Venue : <a href="/venues/venue.jsp?venue_id=1">Langley Pond</a> 
+Gainesville Crew Classic
+	Date : Saturday March 18, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=303">Gainesville Crew Classic</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Gainesville Area Rowing 
+	Location : Crescent City, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=81">Lake Stella</a> 
+Desert Sprints
+	Date : Saturday March 11, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=913">Desert Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=913">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=913">results</a> 
+	Type : sprint 
+	Host : Tempe Town Lake Rowing 
+	Location : Tempe, AZ 
+	Venue : <a href="/venues/venue.jsp?venue_id=115">SRP Town Lake Marina</a> 
+Heart of Texas
+	Date : Saturday March 11, 2006 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=304">Heart of Texas</a> 
+	Results : <a href="/regatta/results.jsp?job_id=304">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=304">results</a> 
+	Type : sprint 
+	Host : Austin Rowing Club 
+	Location : Austin, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=59">Lady Bird Lake</a> 
+OARS Invitational
+	Date : Saturday March 11, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=931">OARS Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=931">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=931">results</a> 
+	Type : sprint 
+	Host : Orlando Area Rowing Society 
+	Location : Orlando, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=119">Turkey Lake</a> 
+Southeastern Regional Collegiate Sprints (SERCS)
+	Date : Saturday March 11, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=903">Southeastern Regional Collegiate Sprints (SERCS)</a> 
+	Results : <a href="/regatta/results.jsp?job_id=903">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=903">results</a> 
+	Type : sprint 
+	Host : University of Georgia Crew 
+	Location : Aiken, SC 
+	Venue : <a href="/venues/venue.jsp?venue_id=1">Langley Pond</a> 
+Greenhead Sprints
+	Date : Saturday March 4, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=318">Greenhead Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=318">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=318">results</a> 
+	Type : Indoor 
+	Host : Brigantine Rowing Club 
+	Location : Brigantine, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=53">Brigantine North School</a> 
+CRASH-B Sprints World Indoor Championship
+	Date : Saturday February 25, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=841">CRASH-B Sprints World Indoor Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=841">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=841">results</a> 
+	Type : Indoor 
+	Host : CRASH-B 
+	Location : Boston, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=49">Agganis Arena</a> 
+Midwest Championship Erg Sprint
+	Date : Saturday February 25, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=847">Midwest Championship Erg Sprint</a> 
+	Results : <a href="/regatta/results.jsp?job_id=847">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=847">results</a> 
+	Type : indoor 
+	Host : Denison University & Ohio State Univ 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=105">Ohio State University - RPAC</a> 
+Motown Madness
+	Date : Saturday February 25, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=897">Motown Madness</a> 
+	Results : <a href="/regatta/results.jsp?job_id=897">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=897">results</a> 
+	Type : Indoor 
+	Host : Friends of Detroit Rowing 
+	Location : Detroit, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=65">GM World Headquarters</a> 
+Novice Regatta
+	Date : Saturday February 18, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=896">Novice Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=896">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=896">results</a> 
+	Type : sprint 
+	Host : Lake Brantley Rowing Association 
+	Location : Orlando, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=119">Turkey Lake</a> 
+Twin Cities Indoor Rowing Championships
+	Date : Saturday February 18, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=954">Twin Cities Indoor Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=954">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=954">results</a> 
+	Type : Indoor 
+	Host : Minnesota Rowing Foundation 
+	Location : Minneapolis, MN 
+	Venue : <a href="/venues/venue.jsp?venue_id=90">Minnehaha Academy</a> 
+Hammer Ergatta
+	Date : Sunday February 12, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=921">Hammer Ergatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=921">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=921">results</a> 
+	Type : Indoor 
+	Host : Case Crew 
+	Location : Cleveland, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=48">Adelbert Gym</a> 
+Connecticut Indoor Rowing Championships
+	Date : Saturday February 11, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=907">Connecticut Indoor Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=907">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=907">results</a> 
+	Type : Indoor 
+	Host : Saugatuck Rowing Club 
+	Location : Fairfield, CT 
+	Venue : <a href="/venues/venue.jsp?venue_id=121">William Pitt Rec Center</a> 
+Crusader Erg Challenge
+	Date : Saturday February 11, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=925">Crusader Erg Challenge</a> 
+	Results : <a href="/regatta/results.jsp?job_id=925">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=925">results</a> 
+	Type : Indoor 
+	Host : Canisius High School Crew 
+	Location : Buffalo, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=124">Canisius High School</a> 
+Indiana Indoor Rowing Championship
+	Date : Sunday February 5, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=846">Indiana Indoor Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=846">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=846">results</a> 
+	Type : Indoor 
+	Host : Indiana Rowing Association 
+	Location : Elkhart, IN 
+	Venue : <a href="/venues/venue.jsp?venue_id=61">Elkhart Central High School</a> 
+Erg Rodeo
+	Date : Saturday February 4, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=777">Erg Rodeo</a> 
+	Results : <a href="/regatta/results.jsp?job_id=777">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=777">results</a> 
+	Type : Indoor 
+	Host : Texas Crew 
+	Location : Austin, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=67">Gregory Gymnasium</a> 
+Pittsburgh Indoor Sprints
+	Date : Saturday February 4, 2006 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=849">Pittsburgh Indoor Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=849">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=849">results</a> 
+	Type : Indoor 
+	Host : Three Rivers Rowing Association 
+	Location : Pittsburgh, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=93">North Catholic HS</a> 
+Ergomania 2006
+	Date : Saturday January 28, 2006 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=845">Ergomania 2006</a> 
+	Results : <a href="/regatta/results.jsp?job_id=845">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=845">results</a> 
+	Type : Indoor 
+	Host : Pocock Rowing Foundation 
+	Location : Seattle, WA 
+	Venue : <a href="/venues/venue.jsp?venue_id=109">Seattle Center House</a> 
+
+	Date : RegattaCentral © 1999-2015 
+	Duration : <ul id="footerMenu">
+			<li><a href="/information/about.jsp">About</a></li>
+			<li><a href="/information/privacy.jsp">Privacy Policy</a></li>
+			<li><a href="/information/terms.jsp">Terms &amp; Conditions</a></li>
+			<li><a href="/support.jsp">Help</a></li>
+		</ul> 

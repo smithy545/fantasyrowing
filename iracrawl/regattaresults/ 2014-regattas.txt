@@ -1,0 +1,4321 @@
+
+Central Catholic Biathlon
+	Date : Saturday December 13, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=4000">Central Catholic Biathlon</a> 
+	Results : <a href="/regatta/results.jsp?job_id=4000">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Central Catholic Crew  (Pittsburgh) 
+	Location : Pittsburgh, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=346">Lambert Boathouse</a> 
+Schuylkill Navy Run
+	Date : Thursday November 27, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3491">Schuylkill Navy Run</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3491">Results</a> 
+	blank :  
+	Type : run 
+	Host : Schuylkill Navy 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=75">Kelly Drive</a> 
+Head of the Giblet
+	Date : Saturday November 22, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3876">Head of the Giblet</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3876">Results</a> 
+	blank :  
+	Type : head 
+	Host : South Orlando Rowing Association 
+	Location : Orlando, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=194">Turkey Lake - Bill Frederick Park</a> 
+Bair Island Fall Regatta
+	Date : Sunday November 16, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3795">Bair Island Fall Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3795">Results</a> 
+	blank :  
+	Type : head 
+	Host : Bair Island Aquatic Center (BIAC) 
+	Location : San Mateo, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=107">San Mateo Marina Lagoon</a> 
+Stanley Park Pogie Season Opener
+	Date : Sunday November 16, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3932">Stanley Park Pogie Season Opener</a> 
+	Results :  
+	blank :  
+	Type : indoor 
+	Host : Vancouver Rowing Club 
+	Location : Vancouver, BC 
+	Venue : <a href="/venues/venue.jsp?venue_id=480">Vancouver Rowing Club, Harbour Room</a> 
+Battle of the Erg - Parati Showdown
+	Date : Saturday November 15, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3713">Battle of the Erg - Parati Showdown</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3713">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Parati Competitive Rowing 
+	Location : The Woodlands, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=476">Lone Star College - Montgomery</a> 
+Sarasota Duathlon at theBend
+	Date : Saturday November 15, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3823">Sarasota Duathlon at theBend</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Sarasota Crew 
+	Location : Sarasota, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=334">Nathan Benderson Park</a> 
+USRowing Fall Speed Order - WEST COAST
+	Date : Friday November 14, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3947">USRowing Fall Speed Order - WEST COAST</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : USRowing 
+	Location : Oakland, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=96">Oakland Estuary</a> 
+Bill Braxton Memorial Regatta
+	Date : Sunday November 9, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3801">Bill Braxton Memorial Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3801">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Philadelphia Girls Rowing Club 
+	Location : West Windsor, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+Philadelphia Turn & Burn
+	Date : Sunday November 9, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3759">Philadelphia Turn &amp; Burn</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3759">Results</a> 
+	blank :  
+	Type : head/sprint 
+	Host : Philadelphia Childrens Foundation 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+San Diego Fall Classic
+	Date : Sunday November 9, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3768">San Diego Fall Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3768">Results</a> 
+	blank :  
+	Type : head 
+	Host : San Diego Rowing Club 
+	Location : San Diego, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=299">Mission Bay/Ski Beach</a> 
+Snowflake Regatta
+	Date : Sunday November 9, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3731">Snowflake Regatta</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : East End Rowing Club 
+	Location : Riverhead, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=136">Peconic River</a> 
+USRowing Masters National Head Race Championship
+	Date : Sunday November 9, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3685">USRowing Masters National Head Race Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3685">Results</a> 
+	blank :  
+	Type : head 
+	Host : USRowing 
+	Location : Augusta, GA 
+	Venue : <a href="/venues/venue.jsp?venue_id=108">Savannah River</a> 
+Head of the Lagoon - Foster City
+	Date : Saturday November 8, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3499">Head of the Lagoon - Foster City</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3499">Results</a> 
+	blank :  
+	Type : head 
+	Host : Peninsula Aquatic Center Junior Crew and Stanford Rowing Center 
+	Location : Foster City, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=338">Foster City Lagoon</a> 
+Head of the South
+	Date : Saturday November 8, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3728">Head of the South</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3728">Results</a> 
+	blank :  
+	Type : head 
+	Host : Augusta Rowing Club 
+	Location : Augusta, GA 
+	Venue : <a href="/venues/venue.jsp?venue_id=108">Savannah River</a> 
+Leader of the Lake
+	Date : Saturday November 8, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3840">Leader of the Lake</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3840">Results</a> 
+	blank :  
+	Type : head 
+	Host : Lake County Rowing Association 
+	Location : Clermont, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=468">Lake Minneola</a> 
+Long Island Frostbite Regatta
+	Date : Saturday November 8, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3843">Long Island Frostbite Regatta</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Sagamore Rowing Association 
+	Location : Oyster Bay, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=190">Centre Island Beach Village Park</a> 
+Merrimack Chase
+	Date : Saturday November 8, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3511">Merrimack Chase</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3511">Results</a> 
+	blank :  
+	Type : head 
+	Host : Essex Rowing Club 
+	Location : Methuen, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=217">Merrimack River</a> 
+Philadelphia Frostbite Regatta
+	Date : Saturday November 8, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3888">Philadelphia Frostbite Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3888">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Pennsylvania Barge Club 
+	Location : West Windsor, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+Stetson Fall Rowing Rendezvous
+	Date : Saturday November 8, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3775">Stetson Fall Rowing Rendezvous</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3775">Results</a> 
+	blank :  
+	Type : head/sprint 
+	Host : Stetson University 
+	Location : DeLand, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=200">Lake Beresford</a> 
+USRowing Fall Speed Order - EAST COAST
+	Date : Saturday November 8, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3930">USRowing Fall Speed Order - EAST COAST</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3930">Results</a> 
+	blank :  
+	Type : head 
+	Host : USRowing 
+	Location : Carnegie Lake, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=76">Lake Carnegie</a> 
+RCA National Rowing Championships
+	Date : Friday November 7, 2014 
+	Duration : 3 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3664">RCA National Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3664">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Victoria City Rowing Club 
+	Location : Victoria, BC 
+	Venue : <a href="/venues/venue.jsp?venue_id=364">Elk Lake</a> 
+Head of the Lake
+	Date : Sunday November 2, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3879">Head of the Lake</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3879">Results</a> 
+	blank :  
+	Type : head 
+	Host : Lake Washington Rowing Club/University of Washington 
+	Location : Seattle, WA 
+	Venue : <a href="/venues/venue.jsp?venue_id=181">Lake Washington</a> 
+Pull The Plug
+	Date : Sunday November 2, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3633">Pull The Plug</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3633">Results</a> 
+	blank :  
+	Type : head 
+	Host : Pittsford Crew 
+	Location : Pittsford, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=43">Erie Canal</a> 
+South Shore Invitational, Novice Challenge
+	Date : Sunday November 2, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3906">South Shore Invitational, Novice Challenge</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Friends of Milton Crew 
+	Location : Boston, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=475">Neponset River</a> 
+Wichita Frostbite Regatta
+	Date : Sunday November 2, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3696">Wichita Frostbite Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3696">Results</a> 
+	blank :  
+	Type : head 
+	Host : Wichita Rowing Association 
+	Location : Wichita, KS 
+	Venue : <a href="/venues/venue.jsp?venue_id=339">Little Arkansas River</a> 
+Collegiate Small Boat Challenge
+	Date : Saturday November 1, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3915">Collegiate Small Boat Challenge</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Princeton National Rowing Association/Mercer 
+	Location : West Windsor, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+Fort Orange Fours
+	Date : Saturday November 1, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3766">Fort Orange Fours</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Albany Rowing Center 
+	Location : Albany, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=71">Hudson River</a> 
+Head of the Hooch
+	Date : Saturday November 1, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3828">Head of the Hooch</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3828">Results</a> 
+	blank :  
+	Type : head 
+	Host : Atlanta Rowing Club & Lookout Rowing Club 
+	Location : Chattanooga, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=116">Tennessee River</a> 
+Naples Island Collegiate Rowing Challenge
+	Date : Saturday November 1, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3835">Naples Island Collegiate Rowing Challenge</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3835">Results</a> 
+	blank :  
+	Type : head/sprint 
+	Host : Cal State Long Beach Crew 
+	Location : Long Beach, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=13">Long Beach Marine Stadium</a> 
+NYS Section 2 Fall Modified Rowing Championships
+	Date : Saturday November 1, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3926">NYS Section 2 Fall Modified Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3926">Results</a> 
+	blank :  
+	Type : head 
+	Host : Saratoga Springs High School/Saratoga Rowing Association 
+	Location : Saratoga, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=37">Fish Creek</a> 
+Sarasota- Bradenton Head Race
+	Date : Saturday November 1, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3770">Sarasota- Bradenton Head Race</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Suncoast Aquatic Nature Center Associates 
+	Location : Sarasota, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=334">Nathan Benderson Park</a> 
+Chicago Dirty Dozen Challenge 6K
+	Date : Sunday October 26, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3951">Chicago Dirty Dozen Challenge 6K</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3951">Results</a> 
+	blank :  
+	Type : head 
+	Host : Lincoln Park Boat Club 
+	Location : Chicago, IL 
+	Venue : <a href="/venues/venue.jsp?venue_id=479">Chicago River- Dammrich Bouthouse</a> 
+Head of the Lafayette
+	Date : Sunday October 26, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3804">Head of the Lafayette</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3804">Results</a> 
+	blank :  
+	Type : head 
+	Host : Hampton Roads Rowing Club 
+	Location : Norfolk, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=18">Lafayette River - Lakeood Park</a> 
+MPSRA Fall State Championship
+	Date : Sunday October 26, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3853">MPSRA Fall State Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3853">Results</a> 
+	blank :  
+	Type : head 
+	Host : Mass. Public Schools Rowing Association 
+	Location : Worcester, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+Portland Fall Classic
+	Date : Sunday October 26, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3767">Portland Fall Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3767">Results</a> 
+	blank :  
+	Type : head 
+	Host : Station L Rowing Club & Rose City Rowing Club 
+	Location : Portland, OR 
+	Venue : <a href="/venues/venue.jsp?venue_id=120">Willamette River</a> 
+Princeton 3-Mile Chase
+	Date : Sunday October 26, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3726">Princeton 3-Mile Chase</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3726">Results</a> 
+	blank :  
+	Type : head 
+	Host : Princeton University & Carnegie Lake Rowing Assn 
+	Location : Princeton, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=76">Lake Carnegie</a> 
+Row for the Cure - San Diego
+	Date : Sunday October 26, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3865">Row for the Cure - San Diego</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3865">Results</a> 
+	blank :  
+	Type : head 
+	Host : UC San Diego Womens Crew 
+	Location : San Diego, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=299">Mission Bay/Ski Beach</a> 
+That Dam Head Race
+	Date : Sunday October 26, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3895">That Dam Head Race</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3895">Results</a> 
+	blank :  
+	Type : head 
+	Host : Oakland Strokes, Inc. 
+	Location : El Sobrante, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=467">San Pablo Reservoir</a> 
+Blake Haxton Fall Invitational
+	Date : Saturday October 25, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3613">Blake Haxton Fall Invitational</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3613">Results</a> 
+	blank :  
+	Type : head 
+	Host : Upper Arlington Crew 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=5">Griggs Reservoir (South)</a> 
+Halloween Regatta
+	Date : Saturday October 25, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3878">Halloween Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3878">Results</a> 
+	blank :  
+	Type : head 
+	Host : Plant High Rowing Association 
+	Location : Tampa, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=33">Bypass Canal</a> 
+Head of the American
+	Date : Saturday October 25, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3894">Head of the American</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3894">Results</a> 
+	blank :  
+	Type : head 
+	Host : Sac State Acquatic Center 
+	Location : Gold River, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=248">Lake Natoma</a> 
+Head of the Colorado (PumpkinHead)
+	Date : Saturday October 25, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3776">Head of the Colorado (PumpkinHead)</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3776">Results</a> 
+	blank :  
+	Type : head 
+	Host : Austin Rowing Club 
+	Location : Austin, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=59">Lady Bird Lake</a> 
+Head of the Eagle
+	Date : Saturday October 25, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3550">Head of the Eagle</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3550">Results</a> 
+	blank :  
+	Type : head 
+	Host : Indianapolis Rowing Center 
+	Location : Indianapolis, IN 
+	Venue : <a href="/venues/venue.jsp?venue_id=10">Eagle Creek</a> 
+Head of the Fish
+	Date : Saturday October 25, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3675">Head of the Fish</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3675">Results</a> 
+	blank :  
+	Type : head 
+	Host : Saratoga Rowing Association 
+	Location : Saratoga Springs, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=37">Fish Creek</a> 
+Head of the Schuylkill Regatta
+	Date : Saturday October 25, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3674">Head of the Schuylkill Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3674">Results</a> 
+	blank :  
+	Type : head 
+	Host : Head of the Schuylkill Regatta 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Portland LO/OP Regatta: Head of the Willamette since 1989
+	Date : Saturday October 25, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3873">Portland LO/OP Regatta: Head of the Willamette since 1989</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3873">Results</a> 
+	blank :  
+	Type : head 
+	Host : Oregon Rowing Unlimited (ORU) & Portland Rowing Club (PRC) 
+	Location : Portland, OR 
+	Venue : <a href="/venues/venue.jsp?venue_id=120">Willamette River</a> 
+Secret City Head Race
+	Date : Saturday October 25, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3850">Secret City Head Race</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3850">Results</a> 
+	blank :  
+	Type : head 
+	Host : Oak Ridge Rowing Association 
+	Location : Oak Ridge, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=20">Melton Hill Lake</a> 
+The Leelanau Chase
+	Date : Saturday October 25, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3786">The Leelanau Chase</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3786">Results</a> 
+	blank :  
+	Type : head 
+	Host : Lake Leelanau Rowing Club 
+	Location : Lake Leelanau, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=378">Lake Leelanau</a> 
+50th Head Of The Charles
+	Date : Saturday October 18, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3644">50th Head Of The Charles</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3644">Results</a> 
+	blank :  
+	Type : head 
+	Host : Head of the Charles 
+	Location : Cambridge, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=57">Charles River</a> 
+Hamilton Double Dam
+	Date : Saturday October 18, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3817">Hamilton Double Dam</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Great Miami Rowing Center 
+	Location : Hamilton, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=247">Great Miami River</a> 
+Head of the Henderson
+	Date : Saturday October 18, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3923">Head of the Henderson</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : ROCCS, Rowing Organization Of Citrus County Students 
+	Location : Inverness, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=477">Lake Henderson</a> 
+Hobbs Island Regatta
+	Date : Saturday October 18, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3639">Hobbs Island Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3639">Results</a> 
+	blank :  
+	Type : head 
+	Host : Rocket City Rowing Club 
+	Location : Huntsville, AL 
+	Venue : <a href="/venues/venue.jsp?venue_id=117">Tennessee River</a> 
+PCF 2.25 Regatta
+	Date : Saturday October 18, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3760">PCF 2.25 Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3760">Results</a> 
+	blank :  
+	Type : head 
+	Host : Philadelphia Childrens Foundation 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=75">Kelly Drive</a> 
+ROWtoberfest
+	Date : Saturday October 18, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3813">ROWtoberfest</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3813">Results</a> 
+	blank :  
+	Type : head 
+	Host : Chicago Rowing Foundation 
+	Location : Chicago, IL 
+	Venue : <a href="/venues/venue.jsp?venue_id=481">WMS Boathouse-Clark Park</a> 
+Tail of the Tiger
+	Date : Saturday October 18, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3762">Tail of the Tiger</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3762">Results</a> 
+	blank :  
+	Type : head 
+	Host : Clemson University Rowing Association 
+	Location : Clemson, SC 
+	Venue : <a href="/venues/venue.jsp?venue_id=78">Lake Hartwell</a> 
+5th Annual New England Junior & High School Regional Championship Regatta
+	Date : Sunday October 12, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3744">5th Annual New England Junior &amp; High School Regional Championship Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3744">Results</a> 
+	blank :  
+	Type : head 
+	Host : Lake Quinsigamond Community Rowing & Shrewsbury High School Crew 
+	Location : Worcester, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+American Lake Fall Classic
+	Date : Sunday October 12, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3834">American Lake Fall Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3834">Results</a> 
+	blank :  
+	Type : head 
+	Host : Commencement Bay Rowing Club 
+	Location : Lakewood, WA 
+	Venue : <a href="/venues/venue.jsp?venue_id=305">American Lake</a> 
+CHARGERS RowSTRONG Regatta
+	Date : Sunday October 12, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3687">CHARGERS RowSTRONG Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3687">Results</a> 
+	blank :  
+	Type : head 
+	Host : Syracuse Chargers Rowing Club 
+	Location : Syracuse, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=349">Lake Onondaga</a> 
+Columbus Fall Classic
+	Date : Sunday October 12, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3862">Columbus Fall Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3862">Results</a> 
+	blank :  
+	Type : head 
+	Host : Westerville Rowing Association 
+	Location : Westerville, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=25">Hoover Reservoir</a> 
+Head of the Grand
+	Date : Sunday October 12, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3816">Head of the Grand</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3816">Results</a> 
+	blank :  
+	Type : head 
+	Host : Michigan State Crew Club 
+	Location : Lansing, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=309">Grand River</a> 
+Head of the Indian Creek
+	Date : Sunday October 12, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3832">Head of the Indian Creek</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3832">Results</a> 
+	blank :  
+	Type : head 
+	Host : Ronald W. Shane Center/Miami Beach Rowing Club 
+	Location : Miami Beach, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=72">Indian Creek</a> 
+Head of the Niagara & Wright Regatta
+	Date : Sunday October 12, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3617">Head of the Niagara &amp; Wright Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3617">Results</a> 
+	blank :  
+	Type : head 
+	Host : West Side Rowing Club 
+	Location : Buffalo, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=51">Black Rock Canal</a> 
+Head of the Port
+	Date : Sunday October 12, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3569">Head of the Port</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3569">Results</a> 
+	blank :  
+	Type : head 
+	Host : River City Rowing Club 
+	Location : West Sacramento, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=193">Sacramento Deep Water Ship Channel</a> 
+Head of the Quinobequin
+	Date : Sunday October 12, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3716">Head of the Quinobequin</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3716">Results</a> 
+	blank :  
+	Type : head 
+	Host : CRI, CBC, RBC & UBC 
+	Location : Boston, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=57">Charles River</a> 
+Head of the Rock
+	Date : Sunday October 12, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3803">Head of the Rock</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3803">Results</a> 
+	blank :  
+	Type : head 
+	Host : YMCA of Rock River Valley 
+	Location : Rockford, IL 
+	Venue : <a href="/venues/venue.jsp?venue_id=189">Rock River</a> 
+New Hampshire Championships Regatta
+	Date : Sunday October 12, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3538">New Hampshire Championships Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3538">Results</a> 
+	blank :  
+	Type : head 
+	Host : Amoskeag Rowing Club 
+	Location : Pembroke, NH 
+	Venue : <a href="/venues/venue.jsp?venue_id=88">Merrimack River</a> 
+Playoff Paddle in San Diego
+	Date : Sunday October 12, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3811">Playoff Paddle in San Diego</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Community Rowing of San Diego 
+	Location : San Diego, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=299">Mission Bay/Ski Beach</a> 
+Chattanooga Head Race
+	Date : Saturday October 11, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3763">Chattanooga Head Race</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3763">Results</a> 
+	blank :  
+	Type : head 
+	Host : Lookout Rowing Club 
+	Location : Chattanooga, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=116">Tennessee River</a> 
+Contre-Courant de Boucherville
+	Date : Saturday October 11, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3896">Contre-Courant de Boucherville</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3896">Results</a> 
+	blank :  
+	Type : head 
+	Host : Club d'aviron de Boucherville 
+	Location : Boucherville, QC 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+First Coast Head Race
+	Date : Saturday October 11, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3827">First Coast Head Race</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3827">Results</a> 
+	blank :  
+	Type : head 
+	Host : Stanton Rowing Foundation 
+	Location : Jacksonville, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=188">St. Johns River</a> 
+Head of the Hillsborough
+	Date : Saturday October 11, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3887">Head of the Hillsborough</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3887">Results</a> 
+	blank :  
+	Type : head 
+	Host : The Stewards Foundation, Inc. 
+	Location : Tampa, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=474">Harbor Island</a> 
+Head of the Housatonic
+	Date : Saturday October 11, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3702">Head of the Housatonic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3702">Results</a> 
+	blank :  
+	Type : head 
+	Host : New Haven Rowing Club 
+	Location : Shelton, CT 
+	Venue : <a href="/venues/venue.jsp?venue_id=70">Housatonic River</a> 
+Head of the Passaic
+	Date : Saturday October 11, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3721">Head of the Passaic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3721">Results</a> 
+	blank :  
+	Type : head 
+	Host : Nereid Boat Club/Passaic River Rowing Association 
+	Location : Rutherford/Lyndhurst, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=100">Passaic River</a> 
+Navy Day Regatta
+	Date : Saturday October 11, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3796">Navy Day Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3796">Results</a> 
+	blank :  
+	Type : head 
+	Host : St. Josephs University 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Quad Cities Classic Regatta
+	Date : Saturday October 11, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3809">Quad Cities Classic Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3809">Results</a> 
+	blank :  
+	Type : head 
+	Host : Y Quad Cities Rowing 
+	Location : Moline, IL 
+	Venue : <a href="/venues/venue.jsp?venue_id=182">Mississippi River</a> 
+Quinsigamond Snake Regatta
+	Date : Saturday October 11, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3892">Quinsigamond Snake Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3892">Results</a> 
+	blank :  
+	Type : head 
+	Host : Quinsigamond Rowing Association 
+	Location : Shrewsbury, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+Speakmon Memorial Regatta
+	Date : Saturday October 11, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3458">Speakmon Memorial Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3458">Results</a> 
+	blank :  
+	Type : head 
+	Host : Greater Columbus Rowing Association 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=26">Griggs Reservoir (North)</a> 
+Head of The Christina
+	Date : Sunday October 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3830">Head of The Christina</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3830">Results</a> 
+	blank :  
+	Type : head 
+	Host : WYRA 
+	Location : Wilmington, DE 
+	Venue : <a href="/venues/venue.jsp?venue_id=27">Christina River</a> 
+Head of the Mississippi
+	Date : Sunday October 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3837">Head of the Mississippi</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3837">Results</a> 
+	blank :  
+	Type : head 
+	Host : Minneapolis Rowing Club 
+	Location : Minneapolis, MN 
+	Venue : <a href="/venues/venue.jsp?venue_id=252">Mississippi River</a> 
+Spartan Sweepstakes Regatta
+	Date : Sunday October 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3886">Spartan Sweepstakes Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3886">Results</a> 
+	blank :  
+	Type : head 
+	Host : Burnt Hills Rowing Association 
+	Location : Alplaus, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=216">Mohawk River</a> 
+Tail of the Fox - Wisconsin
+	Date : Sunday October 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3753">Tail of the Fox - Wisconsin</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3753">Results</a> 
+	blank :  
+	Type : head 
+	Host : La Baie Verte Rowing Club 
+	Location : De Pere, WI 
+	Venue : <a href="/venues/venue.jsp?venue_id=63">Fox River</a> 
+Tail of the Lake
+	Date : Sunday October 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3808">Tail of the Lake</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3808">Results</a> 
+	blank :  
+	Type : head 
+	Host : Holy Names Academy & Lake Union Crew 
+	Location : Seattle, WA 
+	Venue : <a href="/venues/venue.jsp?venue_id=82">Lake Union</a> 
+Textile River Regatta
+	Date : Sunday October 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=2898">Textile River Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=2898">Results</a> 
+	blank :  
+	Type : head 
+	Host : Textile River Committee 
+	Location : Lowell, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=12">Merrimack River</a> 
+Wine Country Rowing Classic
+	Date : Sunday October 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3781">Wine Country Rowing Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3781">Results</a> 
+	blank :  
+	Type : head 
+	Host : North Bay Rowing Club & Sonoma State University 
+	Location : Petaluma, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=128">Petaluma River</a> 
+Burnaby Lake Small Boat Invitational
+	Date : Saturday October 4, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3791">Burnaby Lake Small Boat Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3791">Results</a> 
+	blank :  
+	Type : head/sprint 
+	Host : Burnaby Lake Rowing Club 
+	Location : Burnaby, BC 
+	Venue : <a href="/venues/venue.jsp?venue_id=376">Burnaby Lake</a> 
+Charlie Doyle Memorial Regatta
+	Date : Saturday October 4, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3483">Charlie Doyle Memorial Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3483">Results</a> 
+	blank :  
+	Type : head 
+	Host : Greater Dayton Rowing Association 
+	Location : Dayton, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=6">Great Miami River</a> 
+Gator Head Regatta
+	Date : Saturday October 4, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3787">Gator Head Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3787">Results</a> 
+	blank :  
+	Type : head 
+	Host : Gainesville Area Rowing 
+	Location : Gainesville, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=91">Newnans Lake</a> 
+Head of the Estuary
+	Date : Saturday October 4, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3899">Head of the Estuary</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Oakland Strokes 
+	Location : Oakland, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=96">Oakland Estuary</a> 
+Head of the Genesee
+	Date : Saturday October 4, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3667">Head of the Genesee</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3667">Results</a> 
+	blank :  
+	Type : head/sprint 
+	Host : Rochester Community inclusive Rowing 
+	Location : Rochester, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=129">Genesee River</a> 
+Head of the Mohawk
+	Date : Saturday October 4, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3626">Head of the Mohawk</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3626">Results</a> 
+	blank :  
+	Type : head 
+	Host : Aqueduct Rowing Club 
+	Location : Niskayuna, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=249">Mohawk River</a> 
+Head of the Ohio
+	Date : Saturday October 4, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3498">Head of the Ohio</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3498">Results</a> 
+	blank :  
+	Type : head 
+	Host : Three Rivers Rowing Association 
+	Location : Pittsburgh, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=44">Ohio/Allegheny Rivers</a> 
+High Point Autumn Rowing Festival
+	Date : Saturday October 4, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3807">High Point Autumn Rowing Festival</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3807">Results</a> 
+	blank :  
+	Type : head 
+	Host : High Point Rowing Club 
+	Location : High Point, NC 
+	Venue : <a href="/venues/venue.jsp?venue_id=465">Oak Hollow Lake</a> 
+OCU Head of the Oklahoma
+	Date : Saturday October 4, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3502">OCU Head of the Oklahoma</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3502">Results</a> 
+	blank :  
+	Type : head/sprint 
+	Host : Oklahoma City University 
+	Location : Oklahoma City, OK 
+	Venue : <a href="/venues/venue.jsp?venue_id=98">Oklahoma River</a> 
+Okie O'Connor Hot Head Regatta
+	Date : Saturday October 4, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3866">Okie O'Connor Hot Head Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3866">Results</a> 
+	blank :  
+	Type : head 
+	Host : Tempe Rowers Association 
+	Location : Tempe, AZ 
+	Venue : <a href="/venues/venue.jsp?venue_id=115">SRP Town Lake Marina</a> 
+ROWAMERICA Regatta
+	Date : Saturday October 4, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3863">ROWAMERICA Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3863">Results</a> 
+	blank :  
+	Type : head 
+	Host : RowAmerica 
+	Location : Chicago, IL 
+	Venue : <a href="/venues/venue.jsp?venue_id=472">Fox River</a> 
+RCiR Sprints Adaptive Rowing Fundraiser
+	Date : Friday October 3, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3916">RCiR Sprints Adaptive Rowing Fundraiser</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Rochester Community inclusive Rowing 
+	Location : Rochester, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=129">Genesee River</a> 
+Chicago Dirty Dozen Challenge 5K
+	Date : Sunday September 28, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3920">Chicago Dirty Dozen Challenge 5K</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3920">Results</a> 
+	blank :  
+	Type : head 
+	Host : Lincoln Park Boat Club 
+	Location : Chicago, IL 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+Kings Head XXVIII Regatta on the Schuylkill
+	Date : Sunday September 28, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3769">Kings Head XXVIII Regatta on the Schuylkill</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3769">Results</a> 
+	blank :  
+	Type : head 
+	Host : Upper Merion Boat Club 
+	Location : Bridgeport, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=179">Schuylkill River - Upper Merion</a> 
+Lift Bridge Regatta
+	Date : Sunday September 28, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3802">Lift Bridge Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3802">Results</a> 
+	blank :  
+	Type : head 
+	Host : Fairport Crew Club 
+	Location : Fairport, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=132">Erie Canal</a> 
+Row for the Cure - Portland
+	Date : Sunday September 28, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3732">Row for the Cure - Portland</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Station L Rowing Club 
+	Location : Portland, OR 
+	Venue : <a href="/venues/venue.jsp?venue_id=120">Willamette River</a> 
+Frogtown Regatta
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3379">Frogtown Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3379">Results</a> 
+	blank :  
+	Type : head 
+	Host : Toledo Rowing Club 
+	Location : Toledo, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=86">Maumee River</a> 
+Head of the Brazos
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3748">Head of the Brazos</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3748">Results</a> 
+	blank :  
+	Type : head 
+	Host : Baylor Crew 
+	Location : Waco, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=52">Brazos River</a> 
+Head of the Des Moines
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3820">Head of the Des Moines</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3820">Results</a> 
+	blank :  
+	Type : head 
+	Host : Des Moines Rowing Club 
+	Location : Des Moines, IA 
+	Venue : <a href="/venues/venue.jsp?venue_id=178">Des Moines River - Prospect Park</a> 
+Head of the Dog
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3831">Head of the Dog</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Portland Boat Club 
+	Location : Portland, OR 
+	Venue : <a href="/venues/venue.jsp?venue_id=131">Multnomah Channel</a> 
+Head of the Hidden Dragon
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3773">Head of the Hidden Dragon</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Clermont Crew & CRC 
+	Location : Cincinnati, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=2">Harsha Lake</a> 
+Head of the Merrimack
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3512">Head of the Merrimack</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3512">Results</a> 
+	blank :  
+	Type : head 
+	Host : Essex Rowing Club 
+	Location : Methuen, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=217">Merrimack River</a> 
+Head of the North Saskatchewan
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3922">Head of the North Saskatchewan</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3922">Results</a> 
+	blank :  
+	Type : head 
+	Host : Edmonton Rowing Club 
+	Location : Edmonton, AB 
+	Venue : <a href="/venues/venue.jsp?venue_id=384">North Saskatchewan River</a> 
+Head of the Red Regatta and 2nd Annual Skills Rodeo
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3902">Head of the Red Regatta and 2nd Annual Skills Rodeo</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Winnipeg Rowing Club 
+	Location : Winnipeg, MB 
+	Venue : <a href="/venues/venue.jsp?venue_id=301">Red River</a> 
+Head of the Welland - Five Bridges Fall Classic
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3706">Head of the Welland - Five Bridges Fall Classic</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3706">Results</a> 
+	blank :  
+	Type : head 
+	Host : South Niagara Rowing Club 
+	Location : Welland, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=99">North Course of the WIFC</a> 
+Paper City Regatta
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3901">Paper City Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3901">Results</a> 
+	blank :  
+	Type : head 
+	Host : Holyoke Rows 
+	Location : Holyoke, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=307">Connecticut River</a> 
+Sarasota 5000
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3851">Sarasota 5000</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3851">Results</a> 
+	blank :  
+	Type : head 
+	Host : Sarasota Scullers 
+	Location : Osprey, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=244">Blackburn Point Park</a> 
+Tail of the Fish
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3676">Tail of the Fish</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3676">Results</a> 
+	blank :  
+	Type : head 
+	Host : Saratoga Rowing Association 
+	Location : Saratoga, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=37">Fish Creek</a> 
+Tail of the Fox - New York
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3847">Tail of the Fox - New York</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3847">Results</a> 
+	blank :  
+	Type : head 
+	Host : East Arm Rowing Club 
+	Location : Greenwood Lake, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=198">Greenwood Lake</a> 
+Tough Cup
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3819">Tough Cup</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3819">Results</a> 
+	blank :  
+	Type : head 
+	Host : Chicago Training Center 
+	Location : Chicago, IL 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+Wasatch Mountain Head
+	Date : Saturday September 27, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3822">Wasatch Mountain Head</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3822">Results</a> 
+	blank :  
+	Type : head 
+	Host : Wasatch Mountain Head 
+	Location : Heber City, UT 
+	Venue : <a href="/venues/venue.jsp?venue_id=388">Jordanelle Reservoir</a> 
+NRC's 4th Annual Great 5 Mile Paddle & Oars Challenge
+	Date : Sunday September 21, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3877">NRC's 4th Annual Great 5 Mile Paddle &amp; Oars Challenge</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Newburgh Rowing Club 
+	Location : Newburgh, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=462">Hudson River (Newburgh)</a> 
+Row for the Cure - Seattle
+	Date : Sunday September 21, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3790">Row for the Cure - Seattle</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3790">Results</a> 
+	blank :  
+	Type : head 
+	Host : Pocock Rowing 
+	Location : Seattle, WA 
+	Venue : <a href="/venues/venue.jsp?venue_id=82">Lake Union</a> 
+Asheville Turn & Burn
+	Date : Saturday September 20, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3812">Asheville Turn &amp; Burn</a> 
+	Results :  
+	blank :  
+	Type : head/sprint 
+	Host : Asheville Rowing Club 
+	Location : Arden, NC 
+	Venue : <a href="/venues/venue.jsp?venue_id=466">Lake Julian</a> 
+Head of the Cuyahoga
+	Date : Saturday September 20, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3701">Head of the Cuyahoga</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3701">Results</a> 
+	blank :  
+	Type : head 
+	Host : Cleveland Rowing Foundation 
+	Location : Cleveland, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=4">Cuyahoga River</a> 
+Head of the Hudson
+	Date : Saturday September 20, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3765">Head of the Hudson</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3765">Results</a> 
+	blank :  
+	Type : head 
+	Host : Albany Rowing Center 
+	Location : Albany, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=71">Hudson River</a> 
+Middle Branch Waterfront Festival Regatta
+	Date : Saturday September 20, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3818">Middle Branch Waterfront Festival Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3818">Results</a> 
+	blank :  
+	Type : head 
+	Host : Baltimore Rowing Club 
+	Location : Baltimore, MD 
+	Venue : <a href="/venues/venue.jsp?venue_id=89">Middle Branch Basin</a> 
+RRA 25K Hudson River Challenge
+	Date : Saturday September 20, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3842">RRA 25K Hudson River Challenge</a> 
+	Results :  
+	blank :  
+	Type : open water 
+	Host : River Rowing Association 
+	Location : Nyack, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=235">Hudson River</a> 
+The Milwaukee River Challenge
+	Date : Saturday September 20, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3718">The Milwaukee River Challenge</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3718">Results</a> 
+	blank :  
+	Type : head 
+	Host : The Milwaukee Riverwalk District 
+	Location : Milwaukee, WI 
+	Venue : <a href="/venues/venue.jsp?venue_id=437"> The Menomonee and Milwaukee Rivers</a> 
+Head of the Reach
+	Date : Sunday September 14, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3872">Head of the Reach</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3872">Results</a> 
+	blank :  
+	Type : head 
+	Host : Delta Deas Rowing Club 
+	Location : Delta, BC 
+	Venue : <a href="/venues/venue.jsp?venue_id=297">Deas Slough</a> 
+Rumble on the River
+	Date : Sunday September 14, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3755">Rumble on the River</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3755">Results</a> 
+	blank :  
+	Type : head/sprint 
+	Host : Community Rowing, Inc. 
+	Location : Boston, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=57">Charles River</a> 
+Head of the River
+	Date : Saturday September 13, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3788">Head of the River</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3788">Results</a> 
+	blank :  
+	Type : head 
+	Host : Nicomekl Rowing Club 
+	Location : South Surrey, BC 
+	Venue : <a href="/venues/venue.jsp?venue_id=300">Nicomekl River</a> 
+Steerhead Regatta
+	Date : Saturday September 13, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3665">Steerhead Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3665">Results</a> 
+	blank :  
+	Type : head 
+	Host : Fort Worth Rowing Club 
+	Location : Fort Worth, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=304">Trinity River</a> 
+Wine Country Sprints & The Narrows Devil
+	Date : Saturday September 13, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3829">Wine Country Sprints &amp; The Narrows Devil</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Lake Leelanau Rowing Club 
+	Location : Lake Leelanau, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=378">Lake Leelanau</a> 
+Muskoka Fall Classic
+	Date : Saturday September 6, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3574">Muskoka Fall Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3574">Results</a> 
+	blank :  
+	Type : head 
+	Host : Severn River Rowing Club 
+	Location : Gravenhurst, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=435">Gull Lake Rotary Park</a> 
+Springfield Rockrimmon Regatta
+	Date : Saturday September 6, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3844">Springfield Rockrimmon Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3844">Results</a> 
+	blank :  
+	Type : head 
+	Host : Pioneer Valley Riverfront Club 
+	Location : Springfield, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=433">Connecticut River</a> 
+TN River Gorge Row
+	Date : Saturday September 6, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3841">TN River Gorge Row</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Lookout Rowing Club 
+	Location : Chattanooga, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=116">Tennessee River</a> 
+Petaluma River Marathon and Half Marathon
+	Date : Sunday August 31, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3772">Petaluma River Marathon and Half Marathon</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3772">Results</a> 
+	blank :  
+	Type : head 
+	Host : North Bay Rowing Club 
+	Location : Petaluma, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=128">Petaluma River</a> 
+Six Bridges Regatta
+	Date : Saturday August 30, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3707">Six Bridges Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3707">Results</a> 
+	blank :  
+	Type : head 
+	Host : Arkansas Boathouse Club 
+	Location : North Little Rock, AR 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+Chicago Dirty Dozen Challenge
+	Date : Sunday August 24, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3889">Chicago Dirty Dozen Challenge</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3889">Results</a> 
+	blank :  
+	Type : head 
+	Host : Lincoln Park Boat Club 
+	Location : Chicago, IL 
+	Venue : <a href="/venues/venue.jsp?venue_id=111">Lincoln Park Lagoon</a> 
+CAN ROW Skills Event
+	Date : Saturday August 23, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3855">CAN ROW Skills Event</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : ROWONTARIO 
+	Location : Barrie, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=471">Barrie Rowing Club</a> 
+Régate d'aviron de Sherbrooke
+	Date : Saturday August 23, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3849">Régate d'aviron de Sherbrooke</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Club Nautique de Sherbrooke Section Aviron 
+	Location : Sherbrooke, QB 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+The Cow Island Classic
+	Date : Saturday August 23, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3852">The Cow Island Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3852">Results</a> 
+	blank :  
+	Type : head 
+	Host : Maine Rowing Association 
+	Location : Brunswick, ME 
+	Venue : <a href="/venues/venue.jsp?venue_id=469">Androscoggin River</a> 
+ROWONTARIO Coastal Regatta
+	Date : Saturday August 16, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3854">ROWONTARIO Coastal Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3854">Results</a> 
+	blank :  
+	Type : head 
+	Host : ROWONTARIO 
+	Location : Toronto, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=470">Lake Ontario</a> 
+USRowing Masters National Championships
+	Date : Thursday August 14, 2014 
+	Duration : 4 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3660">USRowing Masters National Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3660">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : Grand Rapids, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=140">Comstock Riverside Park</a> 
+Capital City Sprints
+	Date : Saturday August 9, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3486">Capital City Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3486">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Lansing Rowing Club 
+	Location : Lansing, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=309">Grand River</a> 
+111th Annual NWIRA Championship Regatta
+	Date : Friday August 8, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3833">111th Annual NWIRA Championship Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3833">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Kenora Rowing Club 
+	Location : Kenora, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=303">Rabbit Lake</a> 
+The 132nd Royal Canadian Henley Masters Regatta
+	Date : Sunday August 3, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3729">The 132nd Royal Canadian Henley Masters Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3729">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Canadian Henley Regatta Joint Committee 
+	Location : St. Catharines, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=292">Martindale Waterways</a> 
+The 132nd Royal Canadian Henley Regatta
+	Date : Sunday August 3, 2014 
+	Duration : 8 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3619">The 132nd Royal Canadian Henley Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3619">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Canadian Henley Regatta Joint Committee 
+	Location : St. Catharines, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=292">Martindale Waterways</a> 
+USRowing Senior II World Championship Trials
+	Date : Sunday August 3, 2014 
+	Duration : 4 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3659">USRowing Senior II World Championship Trials</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3659">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : West Windsor, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+Quaker City Masters Regatta
+	Date : Saturday August 2, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3815">Quaker City Masters Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3815">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Fairmount Rowing Association 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Sweeps and Sculls Regatta
+	Date : Saturday August 2, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3598">Sweeps and Sculls Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3598">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Narragansett Boat Club 
+	Location : Providence, RI 
+	Venue : <a href="/venues/venue.jsp?venue_id=41">Seekonk River</a> 
+Twin Cities Juniors Sweeps
+	Date : Sunday July 27, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3740">Twin Cities Juniors Sweeps</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Twin Cities Juniors Rowing 
+	Location : Minneapolis, MN 
+	Venue : <a href="/venues/venue.jsp?venue_id=289">Bryant Lake</a> 
+18th Annual Halifax Summer Regatta
+	Date : Saturday July 26, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3771">18th Annual Halifax Summer Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3771">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Halifax Rowing Association 
+	Location : Daytona Beach, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=241">Halifax River - Intercoastal Waterway</a> 
+Methuen City Sprints
+	Date : Saturday July 26, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3317">Methuen City Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3317">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Essex Rowing Club 
+	Location : Methuen, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=217">Merrimack River</a> 
+Philadelphia Youth Regatta
+	Date : Saturday July 26, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3490">Philadelphia Youth Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3490">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Schuylkill Navy 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+ROWONTARIO Championships
+	Date : Saturday July 26, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3798">ROWONTARIO Championships</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3798">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : ROWONTARIO/Welland Recreational Canal Corporation 
+	Location : Welland, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=66">South Course of the WIFC</a> 
+River City Rebellion: A Small Boat Tournament
+	Date : Sunday July 20, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3568">River City Rebellion: A Small Boat Tournament</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3568">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : River City Rowing Club 
+	Location : West Sacramento, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=205">Port of West Sacramento</a> 
+Michigan Club Invitational Regatta
+	Date : Saturday July 19, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3623">Michigan Club Invitational Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3623">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Ann Arbor Rowing Club 
+	Location : Ann Arbor, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=174">Argo Pond</a> 
+Rowing Canada Aviron (RCA) Canadian Masters Championships
+	Date : Saturday July 19, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3622">Rowing Canada Aviron (RCA) Canadian Masters Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3622">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Burnaby Lake Rowing Club 
+	Location : Burnaby, BC 
+	Venue : <a href="/venues/venue.jsp?venue_id=376">Burnaby Lake</a> 
+St. Catharines Invitational
+	Date : Saturday July 19, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3758">St. Catharines Invitational</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3758">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : St. Catharines Rowing Club 
+	Location : St. Catharines, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=292">Martindale Waterways</a> 
+USRowing Club National Championships
+	Date : Wednesday July 16, 2014 
+	Duration : 5 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3658">USRowing Club National Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3658">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : Oak Ridge, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=20">Melton Hill Lake</a> 
+101st West Side Invitational
+	Date : Sunday July 13, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3666">101st West Side Invitational</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : West Side Rowing Club 
+	Location : Buffalo, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=51">Black Rock Canal</a> 
+Cromwell Cup
+	Date : Sunday July 13, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3714">Cromwell Cup</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3714">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Riverside Boat Club 
+	Location : Cambridge, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=175">Charles River - Powerhouse Stretch</a> 
+ROWONTARIO Masters Championships
+	Date : Sunday July 13, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3799">ROWONTARIO Masters Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3799">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : ROWONTARIO/Welland Recreational Canal Corporation 
+	Location : Welland, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=99">North Course of the WIFC</a> 
+Carnegie Lake Regatta
+	Date : Saturday July 12, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3725">Carnegie Lake Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3725">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Carnegie Lake Rowing Association 
+	Location : Princeton, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=76">Lake Carnegie</a> 
+Chicago Sprints
+	Date : Saturday July 12, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3750">Chicago Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3750">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Lincoln Park Boat Club 
+	Location : Chicago, IL 
+	Venue : <a href="/venues/venue.jsp?venue_id=111">Lincoln Park Lagoon</a> 
+Row the Rockies
+	Date : Saturday July 12, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3640">Row the Rockies</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Rocky Mountain Rowing Club 
+	Location : Denver, CO 
+	Venue : <a href="/venues/venue.jsp?venue_id=396">Cherry Creek Reservoir</a> 
+Challenge West/BC Championships
+	Date : Friday July 11, 2014 
+	Duration : 3 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3647">Challenge West/BC Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3647">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Victoria City Rowing Club 
+	Location : Victoria, BC 
+	Venue : <a href="/venues/venue.jsp?venue_id=364">Elk Lake</a> 
+Junior/Para-Rowing World Championship Trials
+	Date : Sunday July 6, 2014 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3805">Junior/Para-Rowing World Championship Trials</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3805">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : West Windsor, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+Near North Classic
+	Date : Sunday July 6, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3783">Near North Classic</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3783">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Brock Rowing Club 
+	Location : Midland, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+Eastern Rowing Association Championships
+	Date : Saturday July 5, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3712">Eastern Rowing Association Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3712">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Club d'aviron de Montreal - Montreal Rowing Club 
+	Location : Montréal, QB 
+	Venue : <a href="/venues/venue.jsp?venue_id=326">Olympic Basin</a> 
+Independence Day Regatta
+	Date : Friday July 4, 2014 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3489">Independence Day Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3489">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Schuylkill Navy 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Festival Regatta
+	Date : Sunday June 29, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3668">Festival Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3668">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Merrimack River Rowing Association 
+	Location : Lowell, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=12">Merrimack River</a> 
+Genesee Sprints
+	Date : Sunday June 29, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3761">Genesee Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3761">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Genesee Rowing Club 
+	Location : Rochester, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=129">Genesee River</a> 
+USRowing Southwest Masters Regional Championship
+	Date : Sunday June 29, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3595">USRowing Southwest Masters Regional Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3595">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : El Sobrante, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=467">San Pablo Reservoir</a> 
+175th Detroit Boat Club Rowing Regatta
+	Date : Saturday June 28, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3780">175th Detroit Boat Club Rowing Regatta</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Detroit Boat Club 
+	Location : Belle Isle State Park, Detroit, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=7">Detroit River</a> 
+Charm City Sprints
+	Date : Saturday June 28, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3785">Charm City Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3785">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Baltimore Rowing Club 
+	Location : Baltimore, MD 
+	Venue : <a href="/venues/venue.jsp?venue_id=89">Middle Branch Basin</a> 
+Indy Summer Sprints
+	Date : Saturday June 28, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3471">Indy Summer Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3471">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Indianapolis Rowing Center 
+	Location : Indianapolis, IN 
+	Venue : <a href="/venues/venue.jsp?venue_id=10">Eagle Creek</a> 
+Prairie Championships
+	Date : Saturday June 28, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3794">Prairie Championships</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3794">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Edmonton Rowing Club 
+	Location : Leduc, AB 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+Stars & Stripes Regatta
+	Date : Saturday June 28, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3501">Stars &amp; Stripes Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3501">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : OKC Riversport 
+	Location : Oklahoma City, OK 
+	Venue : <a href="/venues/venue.jsp?venue_id=98">Oklahoma River</a> 
+USRowing NE/Mid-Atlantic Masters Championships
+	Date : Saturday June 28, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3684">USRowing NE/Mid-Atlantic Masters Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3684">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : Lowell, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=210">Merrimack River</a> 
+USRowing National Championships
+	Date : Wednesday June 25, 2014 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3657">USRowing National Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3657">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : West Windsor, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+USRowing Senior I/U23 World Championship Trials
+	Date : Sunday June 22, 2014 
+	Duration : 4 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3656">USRowing Senior I/U23 World Championship Trials</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3656">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : West Windsor, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+Bea Ritchie Memorial Regatta
+	Date : Saturday June 21, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3691">Bea Ritchie Memorial Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3691">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Wichita Rowing Association 
+	Location : Wichita, KS 
+	Venue : <a href="/venues/venue.jsp?venue_id=339">Little Arkansas River</a> 
+Boulder Sprints
+	Date : Saturday June 21, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3722">Boulder Sprints</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3722">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Boulder Community Rowing 
+	Location : Boulder, CO 
+	Venue : <a href="/venues/venue.jsp?venue_id=325">Boulder Reservoir</a> 
+Catch the Cooper
+	Date : Saturday June 21, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3572">Catch the Cooper</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3572">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Cooper Rowing Club 
+	Location : Camden, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=3">Cooper River</a> 
+Rocketts Landing Masters Sprints
+	Date : Saturday June 21, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3456">Rocketts Landing Masters Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3456">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Virginia Boat Club 
+	Location : Richmond, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=209">James River - Rocketts Landing</a> 
+The Grand Regatta (State Games of Michigan)
+	Date : Saturday June 21, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3600">The Grand Regatta (State Games of Michigan)</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3600">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Grand Rapids Rowing Club 
+	Location : Grand Rapids, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=140">Comstock Riverside Park</a> 
+USRowing Southeast Regional Championships
+	Date : Saturday June 21, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3655">USRowing Southeast Regional Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3655">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : Aiken, SC 
+	Venue : <a href="/venues/venue.jsp?venue_id=1">Langley Pond</a> 
+Minneapolis Sprints International
+	Date : Friday June 20, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3698">Minneapolis Sprints International</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Minneapolis Sprints, LLC 
+	Location : Long Lake, MN 
+	Venue : <a href="/venues/venue.jsp?venue_id=322">Long Lake</a> 
+USRowing NW Masters Regional Championship
+	Date : Friday June 20, 2014 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3542">USRowing NW Masters Regional Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3542">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : Vancouver, WA 
+	Venue : <a href="/venues/venue.jsp?venue_id=206">Lake Vancouver</a> 
+Lawrence Celebration Regatta
+	Date : Saturday June 14, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3703">Lawrence Celebration Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3703">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Greater Lawrence Rowing 
+	Location : Lawrence, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=12">Merrimack River</a> 
+Schuylkill Navy Regatta
+	Date : Saturday June 14, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3488">Schuylkill Navy Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3488">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Schuylkill Navy 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Tony Biernacki Sr. Memorial Regatta
+	Date : Saturday June 14, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3782">Tony Biernacki Sr. Memorial Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3782">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Brock Rowing Club 
+	Location : Welland, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=99">North Course of the WIFC</a> 
+USRowing Youth National Championship
+	Date : Friday June 13, 2014 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3654">USRowing Youth National Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3654">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : Rancho Cordova, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=248">Lake Natoma</a> 
+Derby Sweeps and Sculls
+	Date : Saturday June 7, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3752">Derby Sweeps and Sculls</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3752">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : New Haven Rowing Club 
+	Location : Shelton, CT 
+	Venue : <a href="/venues/venue.jsp?venue_id=73">Indian Well State Park</a> 
+Methuen Grammar School Invitational
+	Date : Saturday June 7, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3700">Methuen Grammar School Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3700">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Essex Rowing Club 
+	Location : Methuen, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=217">Merrimack River</a> 
+Midwest Masters Sprints
+	Date : Saturday June 7, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3605">Midwest Masters Sprints</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3605">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Greater Columbus Rowing Association 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=5">Griggs Reservoir (South)</a> 
+National Schools' Championship Regatta
+	Date : Saturday June 7, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3681">National Schools' Championship Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3681">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Saratoga Rowing Association 
+	Location : Saratoga Springs, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=37">Fish Creek</a> 
+CSSRA Championships
+	Date : Friday June 6, 2014 
+	Duration : 3 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3632">CSSRA Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3632">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Canadian Secondary Schools Rowing Association 
+	Location : St. Catharines, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=292">Martindale Waterways</a> 
+Row for the Cure - Poughkeepsie
+	Date : Sunday June 1, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3634">Row for the Cure - Poughkeepsie</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3634">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Wappingers Crew Club 
+	Location : Poughkeepsie, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=213">Hudson River - Poughkeepsie</a> 
+Stonewall Regatta XXI
+	Date : Sunday June 1, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3663">Stonewall Regatta XXI</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3663">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : DC Strokes Rowing Club 
+	Location : Washington, DC 
+	Venue : <a href="/venues/venue.jsp?venue_id=30">Anacostia River</a> 
+Vashon Drag Race - 500m
+	Date : Sunday June 1, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3708">Vashon Drag Race - 500m</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Vashon Island Rowing Club 
+	Location : Vashon, WA 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+Doug and Sam Wells Western Ontario Secondary School Rowing Championship
+	Date : Saturday May 31, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3739">Doug and Sam Wells Western Ontario Secondary School Rowing Championship</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3739">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : London Rowing Society 
+	Location : London, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=419">Fanshawe Lake</a> 
+Grand Rapids High School Rowing Invitational
+	Date : Saturday May 31, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3699">Grand Rapids High School Rowing Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3699">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Forest Hills Central Rowing 
+	Location : Grand Rapids, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=253">Grand River</a> 
+Hudson Valley Rowing League Championships
+	Date : Saturday May 31, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3690">Hudson Valley Rowing League Championships</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3690">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Hudson Valley Rowing League 
+	Location : Poughkeepsie, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=213">Hudson River - Poughkeepsie</a> 
+Upper Merion 49th Annual Regatta
+	Date : Saturday May 31, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3570">Upper Merion 49th Annual Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3570">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Upper Merion Area High School 
+	Location : Bridgeport, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=179">Schuylkill River - Upper Merion</a> 
+IRA National Championship
+	Date : Friday May 30, 2014 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3581">IRA National Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3581">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : ECAC 
+	Location : Mercer County, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+NYS Section 2 Mod League Rowing Championships
+	Date : Friday May 30, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3738">NYS Section 2 Mod League Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3738">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Niskayuna Rowing 
+	Location : Niskayuna, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=249">Mohawk River</a> 
+Défi du Canal de Lachine
+	Date : Sunday May 25, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3618">Défi du Canal de Lachine</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Club d'aviron de Lachine/Lachine Rowing Club 
+	Location : Lachine, QC 
+	Venue : <a href="/venues/venue.jsp?venue_id=417">Lachine Canal</a> 
+MPSRA Spring Championship
+	Date : Sunday May 25, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3743">MPSRA Spring Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3743">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Mass. Public Schools Rowing Association 
+	Location : Lowell, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=210">Merrimack River</a> 
+ACRA National Championship Regatta
+	Date : Saturday May 24, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3545">ACRA National Championship Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3545">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : American Collegiate Rowing Association 
+	Location : Gainesville, GA 
+	Venue : <a href="/venues/venue.jsp?venue_id=79">Lake Lanier</a> 
+New England Interscholastic Rowing Championships
+	Date : Saturday May 24, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3742">New England Interscholastic Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3742">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : New England Interscholastic Rowing Association 
+	Location : Worcester, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+Pittsford Regatta
+	Date : Saturday May 24, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3629">Pittsford Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3629">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Pittsford Crew 
+	Location : Pittsford, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=43">Erie Canal</a> 
+SRAA National Championships Regatta
+	Date : Friday May 23, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3734">SRAA National Championships Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3734">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Scholastic Rowing Association of America 
+	Location : Princeton Junction, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+City Championships
+	Date : Sunday May 18, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3433">City Championships</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3433">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Connecticut Public Schools Rowing Championships
+	Date : Sunday May 18, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3670">Connecticut Public Schools Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3670">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Connecticut Public Schools Rowing Association 
+	Location : New Preston, CT 
+	Venue : <a href="/venues/venue.jsp?venue_id=457">Lake Waramaug</a> 
+EARC Sprint Championships
+	Date : Sunday May 18, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3584">EARC Sprint Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3584">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : ECAC 
+	Location : Worcester, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+Eastern New York State Championship
+	Date : Sunday May 18, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3736">Eastern New York State Championship</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3736">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Newburgh Rowing Club 
+	Location : Newburgh, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=462">Hudson River (Newburgh)</a> 
+The American Women's Rowing Championship
+	Date : Sunday May 18, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3583">The American Women's Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3583">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : ECAC 
+	Location : Mercer County, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+Eastern Rowing Association (ERA) High School Regatta
+	Date : Saturday May 17, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3711">Eastern Rowing Association (ERA) High School Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3711">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Club d'aviron de Montreal - Montreal Rowing Club 
+	Location : Montréal, QB 
+	Venue : <a href="/venues/venue.jsp?venue_id=326">Olympic Basin</a> 
+HVRL Novice Champs
+	Date : Saturday May 17, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3688">HVRL Novice Champs</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3688">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Hudson Valley Rowing League 
+	Location : Newburgh, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+Mayors Cup Regatta
+	Date : Saturday May 17, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3599">Mayors Cup Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3599">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Narragansett Boat Club 
+	Location : Providence, RI 
+	Venue : <a href="/venues/venue.jsp?venue_id=41">Seekonk River</a> 
+Midwest Junior Rowing Championship
+	Date : Saturday May 17, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3397">Midwest Junior Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3397">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Cincinnati Junior Rowing Club 
+	Location : Bethel, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=2">Harsha Lake</a> 
+Scholastic Rowing Association of Michigan Championship Regatta
+	Date : Saturday May 17, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3754">Scholastic Rowing Association of Michigan Championship Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3754">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Scholastic Rowing Association of Michigan 
+	Location : Grand Rapids, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=253">Grand River</a> 
+SNRC High School Invitational
+	Date : Saturday May 17, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3705">SNRC High School Invitational</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3705">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : South Niagara Rowing Club 
+	Location : Welland, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=66">South Course of the WIFC</a> 
+Syracuse Chargers Junior Invitational
+	Date : Saturday May 17, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3672">Syracuse Chargers Junior Invitational</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Syracuse Chargers Rowing Club 
+	Location : Syracuse, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=349">Lake Onondaga</a> 
+Under 17 West Coast Championships
+	Date : Saturday May 17, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3547">Under 17 West Coast Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3547">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Oakland Strokes 
+	Location : Oakland, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=96">Oakland Estuary</a> 
+USRowing Northeast Junior District Championships
+	Date : Saturday May 17, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3653">USRowing Northeast Junior District Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3653">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : Lowell, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=210">Merrimack River</a> 
+WCC/PCRC/Pac-12 Championships
+	Date : Saturday May 17, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3730">WCC/PCRC/Pac-12 Championships</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Pacific 12 Conference 
+	Location : Gold River, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=248">Lake Natoma</a> 
+Patriot League Championships
+	Date : Friday May 16, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3756">Patriot League Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3756">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Quinsigamond Rowing Association 
+	Location : Shrewsbury, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+Stotesbury Cup Regatta
+	Date : Friday May 16, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3487">Stotesbury Cup Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3487">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Schuylkill Navy 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+USRowing Northwest Junior District Championships
+	Date : Friday May 16, 2014 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3543">USRowing Northwest Junior District Championships</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3543">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : Vancouver, WA 
+	Venue : <a href="/venues/venue.jsp?venue_id=31">Vancouver Lake</a> 
+National Selection Regatta II
+	Date : Wednesday May 14, 2014 
+	Duration : 4 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3650">National Selection Regatta II</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3650">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : West Windsor, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+Atlantic County High School Championships
+	Date : Sunday May 11, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3607">Atlantic County High School Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3607">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : ACRA, Inc. & SNJRA 
+	Location : Mays Landing, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=172">Lake Lenape</a> 
+ECAC/NIRC
+	Date : Sunday May 11, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3585">ECAC/NIRC</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3585">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : ECAC 
+	Location : Worcester, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+Mother's Day Regatta
+	Date : Sunday May 11, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3737">Mother's Day Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3737">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : St. Catharines Rowing Club 
+	Location : St. Catharines, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=292">Martindale Waterways</a> 
+10th Annual Lowell Invitational
+	Date : Saturday May 10, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3590">10th Annual Lowell Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3590">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Lowell High School Crew 
+	Location : Lowell, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=210">Merrimack River</a> 
+Brine Shrimp Sprints / Wasatch Dash
+	Date : Saturday May 10, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3747">Brine Shrimp Sprints / Wasatch Dash</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Utah Crew and Great Salt Lake Rowing 
+	Location : Salt Lake City, UT 
+	Venue : <a href="/venues/venue.jsp?venue_id=464">Jordan Valley Surplus Canal</a> 
+Central Youth Rowing Championships
+	Date : Saturday May 10, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3484">Central Youth Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3484">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : OKC Riversport 
+	Location : Oklahoma City, OK 
+	Venue : <a href="/venues/venue.jsp?venue_id=98">Oklahoma River</a> 
+Gold Rush Masters Regatta
+	Date : Saturday May 10, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3724">Gold Rush Masters Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3724">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Sac State Acquatic Center 
+	Location : Gold River, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=248">Lake Natoma</a> 
+Head of the Martindale
+	Date : Saturday May 10, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3741">Head of the Martindale</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3741">Results</a> 
+	blank :  
+	Type : head 
+	Host : Ridley Graduate Boat Club 
+	Location : St. Catharines, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=292">Martindale Waterways</a> 
+Midwest Scholastic Rowing Championship
+	Date : Saturday May 10, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3407">Midwest Scholastic Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3407">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Dillon Lake LOC & MSRA 
+	Location : Nashport, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=394">Dillon Lake</a> 
+New York State Scholastic Championships
+	Date : Saturday May 10, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3677">New York State Scholastic Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3677">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Saratoga Rowing Association 
+	Location : Saratoga Springs, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=37">Fish Creek</a> 
+USRowing Mid-Atlantic Junior District Championships
+	Date : Saturday May 10, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3652">USRowing Mid-Atlantic Junior District Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3652">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : West Windsor, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+USRowing Southeast Junior District Championships
+	Date : Saturday May 10, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3651">USRowing Southeast Junior District Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3651">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : Sarasota, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=334">Nathan Benderson Park</a> 
+Virginia Scholastic Rowing Championships
+	Date : Saturday May 10, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3560">Virginia Scholastic Rowing Championships</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3560">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Virginia Scholastic Rowing Association 
+	Location : Fairfax Station, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=333">Occoquan Reservoir</a> 
+Aberdeen Dad Vail Regatta
+	Date : Friday May 9, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3447">Aberdeen Dad Vail Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3447">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Dad Vail Regatta Organizing Committee 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+America Rows Mid-Atlantic Regional Regatta
+	Date : Sunday May 4, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3612">America Rows Mid-Atlantic Regional Regatta</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Baltimore Rowing Club 
+	Location : Baltimore, MD 
+	Venue : <a href="/venues/venue.jsp?venue_id=89">Middle Branch Basin</a> 
+Atlantic 10 Rowing Championship
+	Date : Sunday May 4, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3720">Atlantic 10 Rowing Championship</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3720">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Atlantic 10 Conference 
+	Location : Fairfax Station, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=333">Occoquan Reservoir</a> 
+Cape Cod Rowing Invitational Regatta
+	Date : Sunday May 4, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3604">Cape Cod Rowing Invitational Regatta</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Cape Cod Rowing, Inc. 
+	Location : Harwich, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+Eastern Sprints (W)
+	Date : Sunday May 4, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3586">Eastern Sprints (W)</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3586">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : ECAC 
+	Location : Cherry Hill, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=3">Cooper River</a> 
+John Bennett Regatta
+	Date : Sunday May 4, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3616">John Bennett Regatta</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : West Side Rowing Club 
+	Location : Buffalo, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=51">Black Rock Canal</a> 
+Long Island Junior Rowing Championships
+	Date : Sunday May 4, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3237">Long Island Junior Rowing Championships</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Sagamore Rowing Association 
+	Location : Oyster Bay, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=190">Centre Island Beach Village Park</a> 
+Wayland-Weston Invitational Regatta
+	Date : Sunday May 4, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3727">Wayland-Weston Invitational Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3727">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Wayland Weston Rowing Association 
+	Location : Wayland, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=211">North Pond, Wayland Town Beach</a> 
+Blue & Burgundy Youth Regatta
+	Date : Saturday May 3, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3519">Blue &amp; Burgundy Youth Regatta</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Great Miami Rowing Center 
+	Location : College Corner, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=22">Acton Lake</a> 
+Florida Masters Regatta
+	Date : Saturday May 3, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3673">Florida Masters Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3673">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Orlando Rowing Club 
+	Location : Orlando, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=192">Lake Fairview</a> 
+New England Rowing Championships (NERC)
+	Date : Saturday May 3, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3582">New England Rowing Championships (NERC)</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3582">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : ECAC 
+	Location : Worcester, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=24">Lake Quinsigamond</a> 
+New York State Collegiate Championships
+	Date : Saturday May 3, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3624">New York State Collegiate Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3624">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : New York State Collegiate Championships 
+	Location : Whitney Point, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=170">Whitney Point Park</a> 
+New York State Scholastic Section 2 Championship
+	Date : Saturday May 3, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3678">New York State Scholastic Section 2 Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3678">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Saratoga Rowing Association 
+	Location : Saratoga, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=37">Fish Creek</a> 
+Novice Challenge
+	Date : Saturday May 3, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3589">Novice Challenge</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3589">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Lowell High School Crew 
+	Location : Lowell, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=210">Merrimack River</a> 
+St. Mary's Prep Laddie Cup
+	Date : Saturday May 3, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3439">St. Mary's Prep Laddie Cup</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3439">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : St. Mary's Preparatory Crew Booster Club 
+	Location : Orchard Lake, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=320">Orchard Lake</a> 
+Ted Phoenix Regatta
+	Date : Saturday May 3, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3559">Ted Phoenix Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3559">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Virginia Scholastic Rowing Association 
+	Location : Fairfax Station, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=333">Occoquan Reservoir</a> 
+The North American Junior B/C Championship Regatta
+	Date : Saturday May 3, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3679">The North American Junior B/C Championship Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3679">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Saratoga Rowing Association 
+	Location : Saratoga Springs, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=37">Fish Creek</a> 
+Village to Village SPRING Challenge
+	Date : Saturday May 3, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3571">Village to Village SPRING Challenge</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3571">Results</a> 
+	blank :  
+	Type : head 
+	Host : Rochester Community inclusive Rowing 
+	Location : Spencerport, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=414">Spencerport, NY to Brockport, NY</a> 
+USRowing Southwest Junior District Championship
+	Date : Friday May 2, 2014 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3594">USRowing Southwest Junior District Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3594">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : Gold River, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=40">Lake Natoma</a> 
+Cooper Cup
+	Date : Sunday April 27, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3521">Cooper Cup</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3521">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : South Jersey Rowing Club 
+	Location : Camden, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=3">Cooper River</a> 
+Ithaca Inlet Ice Breaker Invitational
+	Date : Sunday April 27, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3717">Ithaca Inlet Ice Breaker Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3717">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Cascadilla Boat Club 
+	Location : Ithaca, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=372">Cayuga Lake Inlet</a> 
+Maryland High School Rowing Championships
+	Date : Sunday April 27, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3636">Maryland High School Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3636">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Washington College 
+	Location : Chestertown, MD 
+	Venue : <a href="/venues/venue.jsp?venue_id=373">Chester River</a> 
+17th Annual Busfield Regatta
+	Date : Saturday April 26, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3603">17th Annual Busfield Regatta</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Binghamton University Crew 
+	Location : Owego, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=461">Les Wagner Rowing Center</a> 
+Al Urquia Regatta
+	Date : Saturday April 26, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3558">Al Urquia Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3558">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Virginia Scholastic Rowing Association 
+	Location : Fairfax Station, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=333">Occoquan Reservoir</a> 
+Charlie Butt Regatta
+	Date : Saturday April 26, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3557">Charlie Butt Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3557">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Virginia Scholastic Rowing Association 
+	Location : Potomac, DC 
+	Venue : <a href="/venues/venue.jsp?venue_id=45">Potomac River</a> 
+Dillon Lake Invitational
+	Date : Saturday April 26, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3405">Dillon Lake Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3405">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Dillon Lake LOC 
+	Location : Nashport, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=394">Dillon Lake</a> 
+FSRA Sweep Championships
+	Date : Saturday April 26, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3373">FSRA Sweep Championships</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3373">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Florida Scholastic Rowing Association 
+	Location : Sarasota, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=334">Nathan Benderson Park</a> 
+Garden State Scholastic Championships
+	Date : Saturday April 26, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3520">Garden State Scholastic Championships</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3520">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Camden County Boathouse 
+	Location : Camden, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=3">Cooper River</a> 
+MACRA Championships
+	Date : Saturday April 26, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3235">MACRA Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3235">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : University of Michigan Men's Rowing and Eastern Michigan Women's Rowing 
+	Location : Ypsilanti Township, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=454">Ford Lake</a> 
+Mid-Atlantic Rowing Conference Championship
+	Date : Saturday April 26, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3532">Mid-Atlantic Rowing Conference Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3532">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Susquehanna Rowing Association 
+	Location : Lewisberry, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+Oak Ridge Dogwood Regatta
+	Date : Saturday April 26, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3567">Oak Ridge Dogwood Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3567">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Oak Ridge Rowing Association 
+	Location : Oak Ridge, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=20">Melton Hill Lake</a> 
+Ohio Governors Cup Regatta
+	Date : Saturday April 26, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3393">Ohio Governors Cup Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3393">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Dublin Crew 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=26">Griggs Reservoir (North)</a> 
+Regatta at the Big Duck
+	Date : Saturday April 26, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3495">Regatta at the Big Duck</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3495">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Peconic Community Rowing Association 
+	Location : Flanders, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=136">Peconic River</a> 
+Texas Rowing Championships
+	Date : Saturday April 26, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3515">Texas Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3515">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Austin Rowing Club 
+	Location : Austin, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=59">Lady Bird Lake</a> 
+Tulsa Route 66 Sprints Invitational
+	Date : Saturday April 26, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3562">Tulsa Route 66 Sprints Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3562">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Tulsa Rowing Club 
+	Location : Catoosa, OK 
+	Venue : <a href="/venues/venue.jsp?venue_id=368">Verdigris River</a> 
+Western Intercollegiate Rowing Association Championships
+	Date : Saturday April 26, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3544">Western Intercollegiate Rowing Association Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3544">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : S.A.C./ Sacramento State Aquatic Center/Capital 
+	Location : Rancho Cordova, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=40">Lake Natoma</a> 
+18th Annual Saratoga Invitational
+	Date : Friday April 25, 2014 
+	Duration : 3 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3680">18th Annual Saratoga Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3680">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Saratoga Rowing Association 
+	Location : Saratoga Springs, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=37">Fish Creek</a> 
+National Selection Regatta I
+	Date : Wednesday April 23, 2014 
+	Duration : 4 days 
+	GoverningBody : <img src="../images/usrowing_own.gif" width="65" height="14" border="0" title="USRowing owned"> 
+	Event : <a href="/regatta/index.jsp?job_id=3649">National Selection Regatta I</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3649">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : USRowing 
+	Location : Princeton Junction, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+Greater Boston Invitational
+	Date : Saturday April 19, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3576">Greater Boston Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3576">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Wentworth Institute of Technology and UMass Lowell 
+	Location : Lowell, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=210">Merrimack River</a> 
+Hoover Invitational
+	Date : Saturday April 19, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3457">Hoover Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3457">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Westerville Rowing Association 
+	Location : Westerville, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=25">Hoover Reservoir</a> 
+Illinois Collegiate Rowing Invitational
+	Date : Saturday April 19, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3645">Illinois Collegiate Rowing Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3645">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : University of Illinois Rowing Club 
+	Location : Dewitt, IL 
+	Venue : <a href="/venues/venue.jsp?venue_id=406">Clinton Lake</a> 
+Kerr Cup
+	Date : Saturday April 19, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3485">Kerr Cup</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3485">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Drexel University 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Smokey Jacobs Regatta
+	Date : Saturday April 19, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3556">Smokey Jacobs Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3556">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Virginia Scholastic Rowing Association 
+	Location : Fairfax Station, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=333">Occoquan Reservoir</a> 
+Mercer Lake/ISA Sculling Championships
+	Date : Friday April 18, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3510">Mercer Lake/ISA Sculling Championships</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3510">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Princeton National Rowing Association/Mercer 
+	Location : West Windsor, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=21">Mercer Lake</a> 
+SIRA
+	Date : Friday April 18, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3518">SIRA</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3518">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Southern Intercollegiate Rowing Assoc 
+	Location : Oak Ridge, TN 
+	Venue : <a href="/venues/venue.jsp?venue_id=20">Melton Hill Lake</a> 
+5th Manny Flick / Horvat Series
+	Date : Sunday April 13, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3431">5th Manny Flick / Horvat Series</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3431">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Open Ocean Regatta
+	Date : Sunday April 13, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3641">Open Ocean Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3641">Results</a> 
+	blank :  
+	Type : open water 
+	Host : Open Water Rowing Center 
+	Location : Sausalito, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=375">San Franciso Bay</a> 
+Baltimore Invitational Regatta
+	Date : Saturday April 12, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3535">Baltimore Invitational Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3535">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Baltimore Rowing Club 
+	Location : Baltimore, MD 
+	Venue : <a href="/venues/venue.jsp?venue_id=89">Middle Branch Basin</a> 
+Cincinnati High School Invitational
+	Date : Saturday April 12, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3460">Cincinnati High School Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3460">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Cincinnati Junior Rowing Club 
+	Location : Bethel, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=2">Harsha Lake</a> 
+Covered Bridge Regatta
+	Date : Saturday April 12, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3464">Covered Bridge Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3464">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Oregon Association of Rowers 
+	Location : Eugene, OR 
+	Venue : <a href="/venues/venue.jsp?venue_id=9">Dexter Lake</a> 
+Darrell Winslow Regatta
+	Date : Saturday April 12, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3555">Darrell Winslow Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3555">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Virginia Scholastic Rowing Association 
+	Location : Fairfax Station, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=333">Occoquan Reservoir</a> 
+FSRA Sculling Championships
+	Date : Saturday April 12, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3371">FSRA Sculling Championships</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3371">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Florida Scholastic Rowing Association 
+	Location : Sarasota, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=334">Nathan Benderson Park</a> 
+Long Beach Invitational
+	Date : Saturday April 12, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3461">Long Beach Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3461">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Long Beach Junior Crew 
+	Location : Long Beach, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=13">Long Beach Marine Stadium</a> 
+Overpeck Regional Youth Regatta
+	Date : Saturday April 12, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3539">Overpeck Regional Youth Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3539">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Bergen County Rowing Academy 
+	Location : Teaneck/Leonia, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=341">Overpeck Lake</a> 
+Row for Autism
+	Date : Saturday April 12, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3468">Row for Autism</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3468">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Friends of Port Rowing 
+	Location : Port Washington, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=379">North Hempstead Beach Park</a> 
+The 19th Annual Don Lubbers Cup Regatta
+	Date : Saturday April 12, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3233">The 19th Annual Don Lubbers Cup Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3233">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Grand Valley State University 
+	Location : Spring Lake, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=203">Spring Lake</a> 
+The Lindamood Cup
+	Date : Saturday April 12, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3481">The Lindamood Cup</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3481">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Harmar Rowing Club 
+	Location : Marietta, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=267">Muskingum River</a> 
+4th Manny Flick / Horvat Series
+	Date : Sunday April 6, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3429">4th Manny Flick / Horvat Series</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3429">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+11th Annual Greenwich Invitational
+	Date : Saturday April 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3469">11th Annual Greenwich Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3469">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Greenwich Crew 
+	Location : Greenwich, CT 
+	Venue : <a href="/venues/venue.jsp?venue_id=353">Greenwich Harbor</a> 
+BLAST (Bachman Lake Annual Sprint Trials)
+	Date : Saturday April 5, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3443">BLAST (Bachman Lake Annual Sprint Trials)</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3443">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Dallas Rowing Club 
+	Location : Dallas, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=290">Bachman Lake</a> 
+Cincinnati Regatta
+	Date : Saturday April 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3437">Cincinnati Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3437">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : University of Cincinnati Rowing Club 
+	Location : Cincinnati, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=2">Harsha Lake</a> 
+Clemson Sprints Regatta
+	Date : Saturday April 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3452">Clemson Sprints Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3452">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Clemson University Rowing Association 
+	Location : Clemson, SC 
+	Venue : <a href="/venues/venue.jsp?venue_id=255">Lake Hartwell</a> 
+FSRA East District Championship Regatta
+	Date : Saturday April 5, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3671">FSRA East District Championship Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3671">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Lyman Rowing Association 
+	Location : Orlando, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=119">Turkey Lake</a> 
+Guntersville Sprints
+	Date : Saturday April 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3399">Guntersville Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3399">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Lake Guntersville Rowing Club 
+	Location : Guntersville, AL 
+	Venue : <a href="/venues/venue.jsp?venue_id=356">Lake Guntersville</a> 
+Lake Lenape Sprints III
+	Date : Saturday April 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3608">Lake Lenape Sprints III</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3608">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Southern New Jersey Scholastic Rowing Assn 
+	Location : Mays Landing, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=172">Lake Lenape</a> 
+Metropolitan Youth Speed Order
+	Date : Saturday April 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3601">Metropolitan Youth Speed Order</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3601">Results</a> 
+	blank :  
+	Type : head/sprint 
+	Host : Passaic River Rowing Association 
+	Location : Lyndhurst, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=270">Passaic River</a> 
+Miami International Regatta
+	Date : Saturday April 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3606">Miami International Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3606">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Miami Rowing & Watersports (MRC) 
+	Location : Miami, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=15">Biscayne Bay</a> 
+San Diego Crew Classic
+	Date : Saturday April 5, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3355">San Diego Crew Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3355">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : San Diego Crew Classic 
+	Location : San Diego, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=38">Fiesta Bay-Crown Point Shores</a> 
+Steve Neczypor Memorial Regatta
+	Date : Saturday April 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3541">Steve Neczypor Memorial Regatta</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3541">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Neczypor Dynamics 
+	Location : Pennsauken, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=3">Cooper River</a> 
+Walter Mess Regatta
+	Date : Saturday April 5, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3554">Walter Mess Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3554">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Virginia Scholastic Rowing Association 
+	Location : Fairfax Station, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=333">Occoquan Reservoir</a> 
+WV Governors Cup
+	Date : Saturday April 5, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3411">WV Governors Cup</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : University of Charleston 
+	Location : Charleston, WV 
+	Venue : <a href="/venues/venue.jsp?venue_id=47">Kanawha River</a> 
+Jacksonville City Championships
+	Date : Friday April 4, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3694">Jacksonville City Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3694">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Evans Rowing Club 
+	Location : Jacksonville, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+3rd Manny Flick / Horvat Series
+	Date : Sunday March 30, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3427">3rd Manny Flick / Horvat Series</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3427">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Lanier Sprints
+	Date : Sunday March 30, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3551">Lanier Sprints</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Lake Lanier Rowing Club 
+	Location : Gainesville, GA 
+	Venue : <a href="/venues/venue.jsp?venue_id=79">Lake Lanier</a> 
+32nd Memorial Murphy Cup Regatta
+	Date : Saturday March 29, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3627">32nd Memorial Murphy Cup Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3627">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Temple University 
+	Location : Pennsauken, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=3">Cooper River</a> 
+John Hunter Regatta
+	Date : Saturday March 29, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3118">John Hunter Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3118">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : St. Andrew RC & Georgia Tech 
+	Location : Gainesville, GA 
+	Venue : <a href="/venues/venue.jsp?venue_id=79">Lake Lanier</a> 
+Lake Lenape Sprints II
+	Date : Saturday March 29, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3610">Lake Lenape Sprints II</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3610">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Southern New Jersey Scholastic Rowing Assn 
+	Location : Mays Landing, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=172">Lake Lenape</a> 
+Regional Park Regatta
+	Date : Saturday March 29, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3553">Regional Park Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3553">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Virginia Scholastic Rowing Association 
+	Location : Fairfax Station, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=333">Occoquan Reservoir</a> 
+2nd Manny Flick / Horvat Series
+	Date : Sunday March 23, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3425">2nd Manny Flick / Horvat Series</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3425">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Pacific Invitational
+	Date : Sunday March 23, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3692">Pacific Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3692">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Pacific Rowing Club 
+	Location : San Francisco, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+Queen City Ice Breaker Ergatta
+	Date : Sunday March 23, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3597">Queen City Ice Breaker Ergatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3597">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Central Crew Club 
+	Location : Manchester, NH 
+	Venue : <a href="/venues/venue.jsp?venue_id=268">Southern New Hampshire University</a> 
+Eastern New York Indoor Rowing Championship
+	Date : Saturday March 22, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3682">Eastern New York Indoor Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3682">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Newburgh Rowing Club 
+	Location : Newburgh, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=458">International Union of North America Local 17</a> 
+H-Town Sprints
+	Date : Saturday March 22, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3611">H-Town Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3611">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Rice Crew, Parati Competitive Rowing and Unlimited Rowing 
+	Location : Houston, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=453">ROW Studios</a> 
+Lake Lenape Sprints I
+	Date : Saturday March 22, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3609">Lake Lenape Sprints I</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3609">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Southern New Jersey Scholastic Rowing Assn 
+	Location : Mays Landing, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=172">Lake Lenape</a> 
+OKC Junior Invitational
+	Date : Saturday March 22, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3648">OKC Junior Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3648">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : OKC Riversport 
+	Location : Oklahoma City, OK 
+	Venue : <a href="/venues/venue.jsp?venue_id=98">Oklahoma River</a> 
+Polar Bear Regatta
+	Date : Saturday March 22, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3552">Polar Bear Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3552">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Virginia Scholastic Rowing Association 
+	Location : Fairfax Station, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=333">Occoquan Reservoir</a> 
+1st Manny Flick / Horvat Series
+	Date : Sunday March 16, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3423">1st Manny Flick / Horvat Series</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3423">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Philadelphia Scholastics Rowing Assoc. 
+	Location : Philadelphia, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=23">Schuylkill River</a> 
+Augusta Invitational Regatta
+	Date : Saturday March 15, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3580">Augusta Invitational Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3580">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Augusta Rowing Club 
+	Location : Aiken, SC 
+	Venue : <a href="/venues/venue.jsp?venue_id=1">Langley Pond</a> 
+HRRA 14th Annual Indoor Sprints
+	Date : Saturday March 15, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3628">HRRA 14th Annual Indoor Sprints</a> 
+	Results :  
+	blank :  
+	Type : indoor 
+	Host : Hudson River Rowing Association 
+	Location : Poughkeepsie, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=144">McCann Athletic Center, Marist College</a> 
+Row Tide Regatta
+	Date : Saturday March 15, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3482">Row Tide Regatta</a> 
+	Results :  
+	blank :  
+	Type : sprint 
+	Host : Alabama Crew 
+	Location : Tuscaloosa, AL 
+	Venue : <a href="/venues/venue.jsp?venue_id=263">Black Warrior River</a> 
+Spring Speed Order
+	Date : Saturday March 15, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3625">Spring Speed Order</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3625">Results</a> 
+	blank :  
+	Type : head 
+	Host : California Rowing Club 
+	Location : Oakland, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=96">Oakland Estuary</a> 
+Head Up the Creek
+	Date : Sunday March 9, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3217">Head Up the Creek</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3217">Results</a> 
+	blank :  
+	Type : head 
+	Host : False Creek Rowing Club 
+	Location : Vancouver, BC 
+	Venue : <a href="/venues/venue.jsp?venue_id=348">False Creek</a> 
+OARS Masters Invitational
+	Date : Sunday March 9, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3465">OARS Masters Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3465">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Orlando Area Rowing Society 
+	Location : Orlando, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=194">Turkey Lake - Bill Frederick Park</a> 
+Desert Sprints
+	Date : Saturday March 8, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3561">Desert Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3561">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Tempe Rowers Association 
+	Location : Tempe, AZ 
+	Venue : <a href="/venues/venue.jsp?venue_id=115">SRP Town Lake Marina</a> 
+Hungry Eagle Indoor Sprints
+	Date : Saturday March 8, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3506">Hungry Eagle Indoor Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3506">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Skyline Crew 
+	Location : Ann Arbor, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+OARS Youth Invitational
+	Date : Saturday March 8, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3466">OARS Youth Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3466">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Orlando Area Rowing Society 
+	Location : Orlando, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=119">Turkey Lake</a> 
+OLMA Indoor Sprints
+	Date : Saturday March 8, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3522">OLMA Indoor Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3522">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Our Lady of Mercy Academy 
+	Location : Syosset, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=166">Our Lady of Mercy Academy</a> 
+Rockrimmon Ergatta
+	Date : Saturday March 8, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3587">Rockrimmon Ergatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3587">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Pioneer Valley Riverfront Club 
+	Location : Springfield, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+SCRC ErgFest 2014
+	Date : Sunday March 2, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3537">SCRC ErgFest 2014</a> 
+	Results :  
+	blank :  
+	Type : indoor 
+	Host : Swan Creek Rowing Club 
+	Location : Newtown, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=459">Wrightstown Health &amp; Fitness</a> 
+Faultline Faceoff Invitational
+	Date : Saturday March 1, 2014 
+	Duration : 2 days 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3546">Faultline Faceoff Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3546">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Oakland Strokes 
+	Location : San Pablo Reservoir, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+Greenhead Sprints
+	Date : Saturday March 1, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3527">Greenhead Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3527">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Brigantine Rowing Club 
+	Location : Brigantine, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=256">Brigantine North Middle School</a> 
+Heart of Texas
+	Date : Saturday March 1, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3516">Heart of Texas</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3516">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Austin Rowing Club 
+	Location : Austin, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=59">Lady Bird Lake</a> 
+Minnesota Power Pull
+	Date : Saturday March 1, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3462">Minnesota Power Pull</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3462">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Rochester Rowing Club of Minnesota 
+	Location : Rochester, MN 
+	Venue : <a href="/venues/venue.jsp?venue_id=398">Rochester Community and Technical College</a> 
+Mohawk Meltdown
+	Date : Saturday March 1, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3592">Mohawk Meltdown</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3592">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Niskayuna Rowing 
+	Location : Niskayuna, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=460">Niskayuna High School</a> 
+North Allegheny Indoor Rowing Championship
+	Date : Saturday March 1, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3475">North Allegheny Indoor Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3475">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : North Allegheny Rowing Association 
+	Location : Wexford, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=350">Marshall Middle School</a> 
+Ontario Ergometer Championships
+	Date : Saturday March 1, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3533">Ontario Ergometer Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3533">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Ridley Graduate Boat Club 
+	Location : St. Catharines, ON 
+	Venue : <a href="/venues/venue.jsp?venue_id=354">Ridley College Field House</a> 
+Two River Erg Challenge
+	Date : Sunday February 23, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3548">Two River Erg Challenge</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3548">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Navesink Indoor Rowing 
+	Location : Shrewsbury, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=456">Shrewsbury Borough School</a> 
+Arizona Indoor Rowing Championships
+	Date : Saturday February 22, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3507">Arizona Indoor Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3507">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Brophy College Prep Crew 
+	Location : Phoenix, AZ 
+	Venue : <a href="/venues/venue.jsp?venue_id=360">Robson Gym</a> 
+Charlotte Erg Sprints
+	Date : Saturday February 22, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3528">Charlotte Erg Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3528">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Charlotte Youth Rowing 
+	Location : Charlotte, NC 
+	Venue : <a href="/venues/venue.jsp?venue_id=443">Family Life Center - CSCC</a> 
+Midwest Championship Erg Sprint
+	Date : Saturday February 22, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3473">Midwest Championship Erg Sprint</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3473">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Dublin Crew 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=105">Ohio State University - RPAC</a> 
+OKC Riversport Erg Challenge
+	Date : Saturday February 22, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3508">OKC Riversport Erg Challenge</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3508">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : OKC Riversport 
+	Location : Oklahoma City, OK 
+	Venue : <a href="/venues/venue.jsp?venue_id=278">Cox Convention Center</a> 
+Pacific Novice Invitational
+	Date : Saturday February 22, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3637">Pacific Novice Invitational</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3637">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Pacific Rowing Club 
+	Location : San Francisco, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+S.L.A.S.H. F. (Salt Lake Area's Hope Fulls)
+	Date : Saturday February 22, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3573">S.L.A.S.H. F. (Salt Lake Area's Hope Fulls)</a> 
+	Results :  
+	blank :  
+	Type : indoor 
+	Host : Utah Crew 
+	Location : Salt Lake City, UT 
+	Venue : <a href="/venues/venue.jsp?venue_id=449">Salt Lake City Cross Fit</a> 
+Sarasota Invitational
+	Date : Saturday February 22, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3504">Sarasota Invitational</a> 
+	Results : <a href="/regatta/results2/index.jsp?job_id=3504">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : SCRC Sarasota Masters 
+	Location : Sarasota, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=334">Nathan Benderson Park</a> 
+State Winter Games of Michigan - Indoor Rowing
+	Date : Sunday February 16, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3505">State Winter Games of Michigan - Indoor Rowing</a> 
+	Results :  
+	blank :  
+	Type : indoor 
+	Host : Grand Rapids Rowing Association 
+	Location : Rockford, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+Erg Rodeo
+	Date : Saturday February 15, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3494">Erg Rodeo</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3494">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Texas Crew 
+	Location : Austin, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=67">Gregory Gymnasium</a> 
+Pull for Pink
+	Date : Saturday February 15, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3591">Pull for Pink</a> 
+	Results :  
+	blank :  
+	Type : indoor 
+	Host : The Agnes Irwin School 
+	Location : Bryn Mawr, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+Roosevelt Rowing Regatta
+	Date : Saturday February 15, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3367">Roosevelt Rowing Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3367">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : The Stewards Foundation 
+	Location : Tampa, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=293">Hillsborough River</a> 
+Shuffle Off to Buffalo
+	Date : Saturday February 15, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3448">Shuffle Off to Buffalo</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3448">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : West Side Rowing Club 
+	Location : Buffalo, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=145">West Side Rowing Club</a> 
+Gold Coast Classic
+	Date : Sunday February 9, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3467">Gold Coast Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3467">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Friends of Port Rowing 
+	Location : Port Washington, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=345">Schreiber High School Gym</a> 
+Playoff Paddle
+	Date : Sunday February 9, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3577">Playoff Paddle</a> 
+	Results :  
+	blank :  
+	Type : head 
+	Host : Community Rowing of San Diego 
+	Location : San Diego, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=299">Mission Bay/Ski Beach</a> 
+Gami Sprints
+	Date : Saturday February 8, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3514">Gami Sprints</a> 
+	Results :  
+	blank :  
+	Type : indoor 
+	Host : Absegami High School 
+	Location : Galloway, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=362">Absegami High School</a> 
+Hampton Roads Erg Pull
+	Date : Saturday February 8, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3536">Hampton Roads Erg Pull</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3536">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Hampton Roads Rowing Club 
+	Location : Norfolk, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=332">Waterside Festival Marketplace</a> 
+Novice Regatta
+	Date : Saturday February 8, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3493">Novice Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3493">Results</a> 
+	blank :  
+	Type : sprint 
+	Host : Lake Brantley Rowing Association 
+	Location : Orlando, FL 
+	Venue : <a href="/venues/venue.jsp?venue_id=119">Turkey Lake</a> 
+St. Valentine's Day Massacre
+	Date : Saturday February 8, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3523">St. Valentine's Day Massacre</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3523">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Pelham Community Rowing Association 
+	Location : Pelham, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=351">Pelham Middle School</a> 
+The Hammer Ergatta
+	Date : Saturday February 8, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3534">The Hammer Ergatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3534">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Case Western University, Cleveland State University, and John Carroll University 
+	Location : Cleveland, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=48">Adelbert Gym</a> 
+Winter Wolf Howl Ergatta
+	Date : Saturday February 8, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3463">Winter Wolf Howl Ergatta</a> 
+	Results :  
+	blank :  
+	Type : indoor 
+	Host : Minneapolis Sprints LLC & Long Lake Rowing Club 
+	Location : Long Lake, MN 
+	Venue : <a href="/venues/venue.jsp?venue_id=412">Gear West Winter Training Center</a> 
+Haddon Hammers: NJ Indoor Rowing Championships
+	Date : Sunday February 2, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3526">Haddon Hammers: NJ Indoor Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3526">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Haddon Twp Crew Club 
+	Location : Westmont, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=313">Haddon Township High School</a> 
+Strong Island Sprints
+	Date : Sunday February 2, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3525">Strong Island Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3525">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : St. Anthony's High School 
+	Location : So. Huntington, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=227">St. Anthony's</a> 
+Championnat Québécois d'aviron en salle / Quebec Indoor Rowing Championship
+	Date : Saturday February 1, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3497">Championnat Québécois d'aviron en salle / Quebec Indoor Rowing Championship</a> 
+	Results :  
+	blank :  
+	Type : indoor 
+	Host : Montreal Rowing Club / Club d'aviron de Montreal 
+	Location : Montreal, QC 
+	Venue : <a href="/venues/venue.jsp?venue_id=448">Dawson College</a> 
+Crusader Erg Challenge
+	Date : Saturday February 1, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3387">Crusader Erg Challenge</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3387">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Canisius High School Crew 
+	Location : Buffalo, NY 
+	Venue : <a href="/venues/venue.jsp?venue_id=124">Canisius High School</a> 
+Inas Americas Region Indoor Rowing Championship
+	Date : Saturday February 1, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3540">Inas Americas Region Indoor Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3540">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Athletes Without Limits 
+	Location : Alexandria, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=441">TC Williams High School</a> 
+Iowa Indoor Rowing Challenge
+	Date : Saturday February 1, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3492">Iowa Indoor Rowing Challenge</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3492">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Hawkeye Community Rowing 
+	Location : Iowa City, IA 
+	Venue : <a href="/venues/venue.jsp?venue_id=452">Campus Rec &amp; Wellness Center</a> 
+Ironmen Erg Classic
+	Date : Saturday February 1, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3564">Ironmen Erg Classic</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3564">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Don Bosco Prep 
+	Location : Lyndhurst, NJ 
+	Venue : <a href="/venues/venue.jsp?venue_id=450">King's Court Health Club</a> 
+Maine Indoor Rowing Championship
+	Date : Saturday February 1, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3588">Maine Indoor Rowing Championship</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3588">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Portland Community Rowing Association 
+	Location : Biddeford, ME 
+	Venue : <a href="/venues/venue.jsp?venue_id=171">To Be Determined</a> 
+MidAtlantic Erg Sprints
+	Date : Saturday February 1, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3435">MidAtlantic Erg Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3435">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Alexandria Crew Boosters 
+	Location : Alexandria, VA 
+	Venue : <a href="/venues/venue.jsp?venue_id=441">TC Williams High School</a> 
+Motown Madness
+	Date : Saturday February 1, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3509">Motown Madness</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3509">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Friends of Detroit Rowing 
+	Location : Detroit, MI 
+	Venue : <a href="/venues/venue.jsp?venue_id=272">DBCC Boathouse</a> 
+St. Louis Indoor Rowing Championships
+	Date : Saturday February 1, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3579">St. Louis Indoor Rowing Championships</a> 
+	Results :  
+	blank :  
+	Type : indoor 
+	Host : St. Louis Rowing Club 
+	Location : St. Louis, MO 
+	Venue : <a href="/venues/venue.jsp?venue_id=143">Washington University Athletic Complex</a> 
+SWEAT (Southwest Ergometer Amateur Tournament)
+	Date : Saturday February 1, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3395">SWEAT (Southwest Ergometer Amateur Tournament)</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3395">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Jesuit Prep Dallas 
+	Location : Dallas, TX 
+	Venue : <a href="/venues/venue.jsp?venue_id=163">Jesuit College Preparatory School</a> 
+Denver Indoor Rowing Championships
+	Date : Friday January 31, 2014 
+	Duration : 2 days 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3474">Denver Indoor Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3474">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Mile High Rowing Club and CACM Juniors 
+	Location : Denver, CO 
+	Venue : <a href="/venues/venue.jsp?venue_id=336">Colorado Athletic Club Monaco (CACM)</a> 
+Connecticut Indoor Rowing Championships
+	Date : Sunday January 26, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3455">Connecticut Indoor Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3455">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Saugatuck Rowing Club 
+	Location : Easton, CT 
+	Venue : <a href="/venues/venue.jsp?venue_id=223">Easton Community Center</a> 
+Cranberry Crunch Indoor Rowing
+	Date : Sunday January 26, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3531">Cranberry Crunch Indoor Rowing</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3531">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Cape Cod Rowing, Inc. 
+	Location : West Barnstable, MA 
+	Venue : <a href="/venues/venue.jsp?venue_id=355">Cape Cod Community College Cafeteria</a> 
+Northwest Indoor Rowing Championships - NW Ergomania!
+	Date : Sunday January 26, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3517">Northwest Indoor Rowing Championships - NW Ergomania!</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3517">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Pocock Rowing Center 
+	Location : Seattle, WA 
+	Venue : <a href="/venues/venue.jsp?venue_id=447">The Bush School</a> 
+Indianapolis Indoor Rowing Championships
+	Date : Saturday January 25, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3470">Indianapolis Indoor Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3470">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Indianapolis Rowing Center 
+	Location : Indianapolis, IN 
+	Venue : <a href="/venues/venue.jsp?venue_id=225">International School of Indiana</a> 
+Mark Williams Ergatta
+	Date : Saturday January 25, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3036">Mark Williams Ergatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3036">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Lake Lanier Rowing Club 
+	Location : Gainesville, GA 
+	Venue : <a href="/venues/venue.jsp?venue_id=283">Lake Lanier Olympic Venue</a> 
+Pittsburgh Indoor Sprints
+	Date : Saturday January 25, 2014 
+	Duration : 1 day 
+	GoverningBody : <img src="../images/usrowing_reg.gif" width="65" height="14" border="0" title="USRowing registered"> 
+	Event : <a href="/regatta/index.jsp?job_id=3454">Pittsburgh Indoor Sprints</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3454">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Three Rivers Rowing Association 
+	Location : Pittsburgh, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=93">North Catholic HS</a> 
+Row for the Cure - Denver (29th Annual Mile High Sprints)
+	Date : Saturday January 25, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3500">Row for the Cure - Denver (29th Annual Mile High Sprints)</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3500">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Rocky Mountain Rowing Club 
+	Location : Denver, CO 
+	Venue : <a href="/venues/venue.jsp?venue_id=451">CrossFit Denver</a> 
+San Diego Indoor Classic Rowing Championships
+	Date : Saturday January 25, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3453">San Diego Indoor Classic Rowing Championships</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3453">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : San Diego Rowing Club 
+	Location : San Diego, CA 
+	Venue : <a href="/venues/venue.jsp?venue_id=201">San Diego Rowing Club</a> 
+Greater Dayton Erg Sprint
+	Date : Saturday January 18, 2014 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=3496">Greater Dayton Erg Sprint</a> 
+	Results : <a href="/regatta/results.jsp?job_id=3496">Results</a> 
+	blank :  
+	Type : indoor 
+	Host : Greater Dayton Rowing Association 
+	Location : Dayton, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=344">Vandalia Recreation Center</a> 
+
+	Date : RegattaCentral © 1999-2015 
+	Duration : <ul id="footerMenu">
+			<li><a href="/information/about.jsp">About</a></li>
+			<li><a href="/information/privacy.jsp">Privacy Policy</a></li>
+			<li><a href="/information/terms.jsp">Terms &amp; Conditions</a></li>
+			<li><a href="/support.jsp">Help</a></li>
+		</ul> 

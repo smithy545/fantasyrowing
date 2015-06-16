@@ -19,7 +19,9 @@ class RegattaItem(scrapy.Item):
     LateEntry = scrapy.Field()
     Host = scrapy.Field()
     Venue = scrapy.Field()
+    Results = scrapy.Field()
     url = scrapy.Field()
+    blank = scrapy.Field()
 
 class ClubItem(scrapy.Item):
     Blade = scrapy.Field()
@@ -31,3 +33,11 @@ class ClubItem(scrapy.Item):
     StateRegion = scrapy.Field()
     Country = scrapy.Field()
     url = scrapy.Field()
+
+class PlayerItem(scrapy.Item):
+    name = scrapy.Field()
+    height = scrapy.Field() # Centimeters
+    weight = scrapy.Field() # Pounds
+    year = scrapy.Field()
+    sex = scrapy.Field()
+    team = scrapy.Field()

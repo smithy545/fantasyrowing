@@ -7,6 +7,8 @@ class ClubSpider(scrapy.Spider):
     allowed_domains = ["regattacentral.com"]
     start_urls = ["https://www.regattacentral.com/regatta/clubs/index.jsp?job_id=4122&org_id=0"]
 
+    def __init__(self, regatta=None, *args, **kwargs):
+        self.start_urls = ["https://www.regattacentral.com/regatta/clubs/%s" % regatta]
     def parse(self, response):
         filename = "clubs.txt"
         with open(filename, 'wb') as f:

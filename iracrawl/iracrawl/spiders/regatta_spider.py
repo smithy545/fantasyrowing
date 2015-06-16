@@ -8,6 +8,7 @@ class RegattaSpider(scrapy.Spider):
 
     def parse(self, response):
         filename = response.url.split("/")[-2] + ".txt"
+
         with open(filename, 'wb') as f:
             for table in response.xpath("//table[@id='tableResults']"): # Table with regatta data
                 header = table.xpath("//thead/tr")[0]

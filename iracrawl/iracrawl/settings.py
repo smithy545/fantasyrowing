@@ -15,3 +15,7 @@ NEWSPIDER_MODULE = 'iracrawl.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'iracrawl (+http://www.yourdomain.com)'
+
+ITEM_PIPELINES = {
+    'iracrawl.pipelines.ResultPipeline':100
+}

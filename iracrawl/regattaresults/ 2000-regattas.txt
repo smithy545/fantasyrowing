@@ -1,0 +1,53 @@
+
+Speakmon Memorial Regatta
+	Date : Saturday October 28, 2000 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=140">Speakmon Memorial Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=140">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=140">results</a> 
+	Type : head 
+	Host : Greater Columbus Rowing Association 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=26">Griggs Reservoir (North)</a> 
+Head of the Ohio
+	Date : Saturday October 7, 2000 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=120">Head of the Ohio</a> 
+	Results : <a href="/regatta/results.jsp?job_id=120">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=120">results</a> 
+	Type : head 
+	Host : Three Rivers Rowing Association 
+	Location : Pittsburgh, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=44">Ohio/Allegheny Rivers</a> 
+The Regatta at Lake Arthur
+	Date : Sunday August 27, 2000 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=150">The Regatta at Lake Arthur</a> 
+	Results : <a href="/regatta/results.jsp?job_id=150">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=150">results</a> 
+	Type : sprint 
+	Host : Three Rivers Rowing Association 
+	Location : Portersville, PA 
+	Venue : <a href="/venues/venue.jsp?venue_id=42">Lake Arthur</a> 
+Ohio Governors Cup Regatta
+	Date : Sunday May 7, 2000 
+	Duration : 1 day 
+	GoverningBody :  
+	Event : <a href="/regatta/index.jsp?job_id=110">Ohio Governors Cup Regatta</a> 
+	Results : <a href="/regatta/results.jsp?job_id=110">Results</a> 
+	blank : <a href="/regatta/index.jsp?section=results&amp;job_id=110">results</a> 
+	Type : sprint 
+	Host : Dublin Crew 
+	Location : Columbus, OH 
+	Venue : <a href="/venues/venue.jsp?venue_id=26">Griggs Reservoir (North)</a> 
+
+	Date : RegattaCentral © 1999-2015 
+	Duration : <ul id="footerMenu">
+			<li><a href="/information/about.jsp">About</a></li>
+			<li><a href="/information/privacy.jsp">Privacy Policy</a></li>
+			<li><a href="/information/terms.jsp">Terms &amp; Conditions</a></li>
+			<li><a href="/support.jsp">Help</a></li>
+		</ul> 

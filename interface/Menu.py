@@ -1,4 +1,4 @@
-import hashlib, os, sys
+import sqlite3
 
 class Menu:
     def __init__(self, title, options):
@@ -21,27 +21,24 @@ class Menu:
                 print "Invalid choice"
 
         if self.options[choice - 1].lower() in ("quit", "q", "exit", "leave"):
-            return "q"
-        return self.options[choice - 1]
+            return -1
+        return choice
 
 def login():
     print "Login"
     username = raw_input("Username: ")
     password = raw_input("Password: ")
 
-    users = open("users.txt", "r")
-    hashes = open("hashes.txt", "r")
-    for user in users.read().splitlines():
-        if user == username:
-            for h in hashes.read().splitlines():
-                if int(h) == hash(user + password):
-                    print "Login Successful"
-                    users.close()
-                    hashes.close()
-                    return username
-            print "Invalid Login"
-            return False            
+    conn = sqlite3.connect("rowers.db")
+    conn.row_factory = sqlite3.Row
+    c = conn.cursor()
+    for user in c.execute("SELECT * FROM user;"):
+        if user['username'] == username and user['hash'] == hash(username + password):
+                conn.close()
+                print "Login Successful"
+                return user        
 
+    conn.close()
     print "Invalid Login"
     return False
     
@@ -49,24 +46,31 @@ def login():
 def signup():
     print "Signup"
 
-    users = open("users.txt", "r+")
-    allUsers = users.readlines()
+    takennames = []
+
+    conn = sqlite3.connect("rowers.db")
+    conn.row_factory == sqlite3.Row
+    c = conn.cursor()
+    for username in c.execute("SELECT username FROM user;"):
+        takennames.append(username[0])
     
     while True:
         username = raw_input("Enter a username(q to quit): ")
-        if username in allUsers:
+        if username in takennames:
             print "Username taken. Try Again."
         elif username == "q":
-            return -1
+            return False
         else:
             break
     
     password = raw_input("Enter a password: ")
+    h = hash(username + password)
 
-    hashes = open("hashes.txt","a")
+    c.execute("INSERT INTO user (username, hash) values (?,?);", (username, h))
+    user = c.execute("SELECT * FROM user WHERE username = ?", (username,)).fetchone()
+
+    conn.commit()
+    conn.close()
     
-    users.write(username + "\n")
-    hashes.write(str(hash(username+password)) + "\n")
-    return username
+    return user
 
-         

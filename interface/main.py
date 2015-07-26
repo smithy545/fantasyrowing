@@ -1,4 +1,5 @@
-import Menu
+from Menu import *
+from User import User
 
 def main():
     LoginMenu = Menu("Welcome to Fantasy Rowing!", ["Login", "Signup", "Quit"])
@@ -6,25 +7,27 @@ def main():
     while True:
         LoginMenu.display()
         choice = LoginMenu.prompt()
-        user = ""
-        if choice == "q":
+        user = False
+        if choice == -1:
             return
-        elif choice == "Login":
+        elif choice == 1:
             user = login()
-        elif choice == "Signup":
+        elif choice == 2:
             user = signup()
 
-        if user == -1:
+        if user == False:
             continue
 
-        MainMenu = Menu(user, ["View Team", "Quit"])
+        username = user['username']
+        MainMenu = Menu(username, ["Team", "Quit"])
+        CurrentUser = User(username)
 
         while True:
             MainMenu.display()
             choice = MainMenu.prompt()
-            if choice == "q":
+            if choice == -1:
                 break
-            if choice == "View Team":
+            if choice == 1:
                 CurrentUser.displayTeam()
 
 if __name__ == "__main__":

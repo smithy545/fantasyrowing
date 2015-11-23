@@ -1,4 +1,5 @@
 import sqlite3
+from helpers import *
 
 class Menu:
     def __init__(self, title, options):
@@ -29,16 +30,15 @@ def login():
     username = raw_input("Username: ")
     password = raw_input("Password: ")
 
-    conn = sqlite3.connect("rowers.db")
-    conn.row_factory = sqlite3.Row
-    c = conn.cursor()
+    db = getDatabase()
+    c = getCursor(db)
     for user in c.execute("SELECT * FROM user;"):
         if user['username'] == username and user['hash'] == hash(username + password):
-                conn.close()
+                closeDatabase(db)
                 print "Login Successful"
                 return user        
 
-    conn.close()
+    closeDatabase(db)
     print "Invalid Login"
     return False
     
@@ -48,9 +48,8 @@ def signup():
 
     takennames = []
 
-    conn = sqlite3.connect("rowers.db")
-    conn.row_factory == sqlite3.Row
-    c = conn.cursor()
+    db = getDatabase()
+    c = getCursor(db)
     for username in c.execute("SELECT username FROM user;"):
         takennames.append(username[0])
     
@@ -69,8 +68,8 @@ def signup():
     c.execute("INSERT INTO user (username, hash) values (?,?);", (username, h))
     user = c.execute("SELECT * FROM user WHERE username = ?", (username,)).fetchone()
 
-    conn.commit()
-    conn.close()
+    db.commit()
+    closeDatabase(db)
     
     return user
 

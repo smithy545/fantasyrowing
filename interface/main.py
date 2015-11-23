@@ -1,5 +1,6 @@
 from Menu import *
 from User import User
+from helpers import *
 
 def main():
     LoginMenu = Menu("Welcome to Fantasy Rowing!", ["Login", "Signup", "Quit"])
@@ -19,7 +20,7 @@ def main():
             continue
 
         username = user['username']
-        MainMenu = Menu(username, ["Team", "Quit"])
+        MainMenu = Menu(username, ["View Team", "Edit Team", "Quit"])
         CurrentUser = User(username)
 
         while True:
@@ -29,6 +30,13 @@ def main():
                 break
             if choice == 1:
                 CurrentUser.displayTeam()
+            if choice == 2:
+                tempList = []
+                for row in CurrentUser.league.availableRowers():
+                    tempList.append(str(rowToList(row)))
+                tempMenu = Menu("Available Rowers", tempList)
+                tempMenu.display()
+                rower = tempMenu.prompt()
 
 if __name__ == "__main__":
     main()

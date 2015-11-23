@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 
-import requests, sys
+import requests, sys, os
 
 currentmax = 45449
 

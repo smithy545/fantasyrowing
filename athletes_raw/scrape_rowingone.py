@@ -2,18 +2,18 @@ from bs4 import BeautifulSoup
 
 import requests, sys, os
 
-currentmax = 47295
+currentmax = 45449
 
 if len(sys.argv) > 1:
     start = int(sys.argv[1])
 else:
     start = 0
 
-if not os.path.exists("worldrowing/"):
-    os.makedirs("worldrowing/")
+if not os.path.exists("rowingone/"):
+    os.makedirs("rowingone/")
 
 for i in range(start, currentmax):
-    url = "http://www.worldrowing.com/athletes/athlete/" + str(i)
+    url = "http://www.rowingone.com/n_bio_rower.fwx?no_id=" + str(i)
     try:
         r = requests.get(url)
         print "Athlete " + str(i) + " successfully got"
@@ -22,7 +22,7 @@ for i in range(start, currentmax):
         print inst
 
     try:
-        f = open("worldrowing/athlete-" + str(i) + ".html", 'w')
+        f = open("rowingone/athlete-" + str(i) + ".html", 'w')
         f.write(r.text.encode('utf8'))
         f.close()
         print "Athlete " + str(i) + " successfully written"
@@ -30,4 +30,3 @@ for i in range(start, currentmax):
         print type(inst)
         print inst
     
-#current rower 1680
